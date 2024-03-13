@@ -1,0 +1,5 @@
+- [[Singleton]] (mặc định): IoC container chỉ tạo đúng duy nhất 1 object từ class bean này
+- [[Prototype]]: return một bean object riêng biệt cho mỗi lần sử dụng.
+- [[Request]]: tạo mỗi bean cho mỗi request
+- [[Session]]: tạo mỗi bean cho mỗi session
+- [[Global session]]: tạo mỗi bean cho mỗi global session (cái này không hiểu lắm)

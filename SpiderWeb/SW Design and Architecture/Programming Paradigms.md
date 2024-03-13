@@ -1,0 +1,2 @@
+[[Structured programming]]
+[[Functional programming]]

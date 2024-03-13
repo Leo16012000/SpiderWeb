@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "4e1eb662617af59c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a368bcb1c3c18ac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26fa7f99c8d97db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1918e058ad5e79ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9eab8679117ab4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Programming Paradigms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef624837ea082b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Programming Paradigms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87ba2e40258cf4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/OOP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c72600bff0fd964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Model-Driven Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1ad48e767da8096",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bfb813b3a2a3be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d5e4206aef31732",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "478b02a604459df1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "237d72bdd1b21e83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d229b54240fc51eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "501a9ca7dfb09b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5683b3e07956eddd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Model-Driven Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66812bbfb9e45a8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Model-Driven Design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1b87840cbdaaf8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d477634b28b6c8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Model-Driven Design.md"
+              }
+            }
+          },
+          {
+            "id": "fa9a85ebee6eb37c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "b422d8784e8c7739",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9c72600bff0fd964",
+  "lastOpenFiles": [
+    "SW Design and Architecture/OOP.md",
+    "Model-Driven Design.md",
+    "SW Design and Architecture/SW Design and Architecture.md",
+    "SW Design and Architecture/Programming Paradigms.md",
+    "Tech vocabs/Vocabs.md",
+    "Tech vocabs",
+    "SW Design and Architecture/Clean code.md",
+    "SW Design and Architecture/Avoid passing null, booleans.md",
+    "Java/Java.md",
+    "SB/Bean.md",
+    "Java/Single thread.md",
+    "Excalidraw/Drawing 2024-03-13 15.43.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-13 15.43.16.excalidraw.md",
+    "Java/Muiltithread.md",
+    "Excalidraw",
+    "202403131542.md",
+    "SB/Annotation.md",
+    "SW Design and Architecture",
+    "SB/5 Scope.md",
+    "SB/When application runs.md",
+    "SB/Application Context.md",
+    "SB/SB.md",
+    "SB/Structure.md",
+    "SB/Bean Annotation.md",
+    "SB/Life Cycle ???.md",
+    "Assets/Pasted image 20240313140252.png",
+    "SB/3 types.md",
+    "Java",
+    "SB/Dependency Injection.md",
+    "@Primary.md",
+    "Architecture/IOC.md",
+    "Assets/Pasted image 20240313104345.png",
+    "Assets/Pasted image 20240313105152.png",
+    "Assets/Pasted image 20240313110302.png",
+    "Assets/Pasted image 20240313111204.png",
+    "Assets",
+    "Assets/Pasted image 20240313110334.png",
+    "Architecture",
+    "SB",
+    "Assets/Pasted image 20240313104431.png"
+  ]
+}

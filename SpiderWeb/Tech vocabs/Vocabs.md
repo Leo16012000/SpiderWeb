@@ -1,0 +1,1 @@
+Paradigm: a [model](https://dictionary.cambridge.org/vi/dictionary/english/model "model") of something, or a very [clear](https://dictionary.cambridge.org/vi/dictionary/english/clear "clear") and [typical](https://dictionary.cambridge.org/vi/dictionary/english/typical "typical") [example](https://dictionary.cambridge.org/vi/dictionary/english/example "example") of something
