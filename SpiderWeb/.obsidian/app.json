@@ -1,8 +1,15 @@
 {
   "spellcheck": false,
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showLineNumber": false,
   "rightToLeft": false,
-  "tabSize": 3
+  "tabSize": 3,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

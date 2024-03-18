@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SB/SB.md",
+                "file": "Java/Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "5b003ab085b3c652",
+            "id": "d1f43057b867a9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SB/SB.md",
+                "file": "Java/Java.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,38 @@
             }
           },
           {
-            "id": "45bac3946a9a9640",
+            "id": "6c2bfee3028632a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring vs Spring Boot.md",
+                "file": "Java/Java.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fde7fe52de976d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java 21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e0281db48f49f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SB/SB.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring vs Spring Boot.md",
+                "file": "SB/SB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring vs Spring Boot.md",
+                "file": "SB/SB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring vs Spring Boot.md"
+                "file": "SB/SB.md"
               }
             }
           },
@@ -201,49 +227,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45bac3946a9a9640",
+  "active": "3e0281db48f49f13",
   "lastOpenFiles": [
+    "Spring vs Spring Boot.md",
     "Pasted image 20240317222849.png",
     "Pasted image 20240317214806.png",
-    "SB/SB.md",
-    "Spring vs Spring Boot.md",
-    "Why use Spring Boot?.md",
-    "SB/Bean.md",
-    "SB/Life Cycle ???.md",
-    "SB/Application Context.md",
-    "SB/5 Scope.md",
-    "SB/3 types.md",
-    "Java/Java.md",
-    "My English world",
-    "Java 16.md",
-    "Java/Muiltithread.md",
-    "Java/Single thread.md",
-    "SW Design and Architecture/Avoid passing null, booleans.md",
-    "Java 9.md",
-    "Java 8.md",
-    "SW Design and Architecture/SW Design and Architecture.md",
-    "Tech vocabs/Vocabs.md",
-    "Java 17.md",
-    "Java 14.md",
-    "Java 12.md",
-    "Java 11.md",
-    "New File method.md",
-    "Java 10.md",
     "Functional Interface.md",
-    "Lambda Expression.md",
+    "SB/3 types.md",
+    "SB/Dependency Injection.md",
+    "Centralize Log Parser/Centralize Log Parser.md",
+    "Pasted image 20240315145211.png",
+    "Centralize Log Parser/Pasted image 20240315110509.png",
+    "Centralize Log Parser/Pasted image 20240315102540.png",
+    "Centralize Log Parser/Pasted image 20240315142527.png",
+    "Tech vocabs/Vocabs.md",
+    "Centralize Log Parser/Pasted image 20240315133741.png",
+    "Java/Model-Driven Design.md",
+    "Java/Functional Interface.md",
+    "Centralize Log Parser",
+    "Centralize Log Parser/Pasted image 20240315141958.png",
+    "Centralize Log Parser/Pasted image 20240315141904.png",
+    "Centralize Log Parser/Pasted image 20240315140157.png",
+    "Java/Java.md",
+    "Java/Java 21.md",
+    "Java/Java 18.md",
+    "Java/Java 17.md",
+    "Java/Java 16.md",
+    "SW Design and Architecture/Avoid passing null, booleans.md",
+    "Java/Java 9.md",
+    "Java/Java 8.md",
+    "SW Design and Architecture/SW Design and Architecture.md",
+    "Java/Java 14.md",
+    "Java/Java 12.md",
+    "Java/Java 11.md",
+    "New File method.md",
+    "Java/Java 10.md",
+    "Java/Lambda Expression.md",
+    "SW Design and Architecture/OOP.md",
+    "SW Design and Architecture/Programming Paradigms.md",
     "Tech vocabs",
+    "SW Design and Architecture/Clean code.md",
     "Excalidraw",
     "SW Design and Architecture",
-    "Assets/Pasted image 20240313140252.png",
     "Java",
-    "Assets/Pasted image 20240313104345.png",
-    "Assets/Pasted image 20240313105152.png",
-    "Assets/Pasted image 20240313110302.png",
-    "Assets/Pasted image 20240313111204.png",
     "Assets",
-    "Assets/Pasted image 20240313110334.png",
     "Architecture",
-    "SB",
-    "Assets/Pasted image 20240313104431.png"
+    "SB"
   ]
 }

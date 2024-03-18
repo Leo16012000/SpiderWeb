@@ -10,3 +10,5 @@ https://viblo.asia/p/tat-tan-tat-tu-jdk-8-den-jdk-21-MG24B63B4z3 JDK 8 -> Java 2
 [[Java 14]]
 [[Java 16]]
 [[Java 17]]
+[[Java 18]]
+[[Java 21]]
