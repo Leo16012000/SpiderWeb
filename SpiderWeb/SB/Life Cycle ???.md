@@ -1,4 +1,4 @@
-![[Pasted image 20240313140252.png]]
+![[Pasted image 20240313140252.png|700]]
 Nhìn có vẻ dài và khó hiểu, nhưng đại loại sẽ gồm các bước sau:
 
 - IoC container tạo bean bằng cách gọi constructor (có thể inject các bean dependency vào đây)

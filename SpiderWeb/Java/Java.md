@@ -1,5 +1,6 @@
 [[Single thread]]
 [[Muiltithread]]
+[[Upcasting && Downcasting]]
 https://viblo.asia/p/tat-tan-tat-tu-jdk-8-den-jdk-21-MG24B63B4z3 JDK 8 -> Java 21
 [[Java 8]]
 [[Java 9]]
