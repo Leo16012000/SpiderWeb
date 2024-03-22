@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "fde7fe52de976d95",
+            "id": "67ef5f4f2a33440a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java 21.md",
+                "file": "SW Design and Architecture/SW Design and Architecture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +60,155 @@
             }
           },
           {
-            "id": "3e0281db48f49f13",
+            "id": "6efd70a94a5be07e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SB/SB.md",
+                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd9e949550e51083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e9a4d50325c3836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Coupling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "facdda405ce676d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem solving/Problem solving.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9686c241b8308b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36769121a5f681b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Design Pattern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03694abbec5b3448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Design Pattern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "269b4dd9036f97bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Monad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5701c6470421277a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "No category/Take a look man!.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3c9ce001d13797c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dde446047acf399e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem solving/Problem solving.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8780a22f846b087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Cohension.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -139,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SB/SB.md",
+                "file": "SW Design and Architecture/Cohension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SB/SB.md",
+                "file": "SW Design and Architecture/Cohension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SB/SB.md"
+                "file": "SW Design and Architecture/Cohension.md"
               }
             }
           },
@@ -227,51 +370,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e0281db48f49f13",
+  "active": "b8780a22f846b087",
   "lastOpenFiles": [
-    "Spring vs Spring Boot.md",
-    "Pasted image 20240317222849.png",
-    "Pasted image 20240317214806.png",
-    "Functional Interface.md",
-    "SB/3 types.md",
-    "SB/Dependency Injection.md",
-    "Centralize Log Parser/Centralize Log Parser.md",
-    "Pasted image 20240315145211.png",
-    "Centralize Log Parser/Pasted image 20240315110509.png",
-    "Centralize Log Parser/Pasted image 20240315102540.png",
-    "Centralize Log Parser/Pasted image 20240315142527.png",
-    "Tech vocabs/Vocabs.md",
-    "Centralize Log Parser/Pasted image 20240315133741.png",
-    "Java/Model-Driven Design.md",
-    "Java/Functional Interface.md",
-    "Centralize Log Parser",
-    "Centralize Log Parser/Pasted image 20240315141958.png",
-    "Centralize Log Parser/Pasted image 20240315141904.png",
-    "Centralize Log Parser/Pasted image 20240315140157.png",
-    "Java/Java.md",
-    "Java/Java 21.md",
-    "Java/Java 18.md",
-    "Java/Java 17.md",
-    "Java/Java 16.md",
-    "SW Design and Architecture/Avoid passing null, booleans.md",
-    "Java/Java 9.md",
-    "Java/Java 8.md",
+    "Build real time system.md",
+    "Problem solving/Problem solving.md",
+    "Problem solving/Sync database in microservices.md",
+    "SW Design and Architecture/Cohension.md",
+    "Pasted image 20240322102509.png",
+    "SW Design and Architecture/Coupling.md",
     "SW Design and Architecture/SW Design and Architecture.md",
-    "Java/Java 14.md",
-    "Java/Java 12.md",
-    "Java/Java 11.md",
-    "New File method.md",
-    "Java/Java 10.md",
-    "Java/Lambda Expression.md",
+    "No category/Take a look man!.md",
+    "Pasted image 20240322091547.png",
+    "SW Design and Architecture/Monad.md",
     "SW Design and Architecture/OOP.md",
     "SW Design and Architecture/Programming Paradigms.md",
-    "Tech vocabs",
+    "Java/Optional.md",
+    "Java/Java.md",
+    "Pasted image 20240321102323.png",
+    "Pasted image 20240321102210.png",
+    "Pasted image 20240321102050.png",
+    "Java/Model-Driven Design.md",
+    "No category/Declarative Programming vs Imperative Programming.md",
+    "No category/Imperative Programming.md",
+    "No category/Declarative programming.md",
+    "Pasted image 20240321093622.png",
+    "No category",
+    "SW Design and Architecture/Design Pattern.md",
+    "SB/Spring vs Spring Boot.md",
+    "Assets/Pasted image 20240317214806.png",
+    "Assets/Pasted image 20240319112227.png",
+    "Assets/Pasted image 20240317222849.png",
+    "Centralize Log Parser/Pasted image 20240315145211.png",
+    "Java/Java 8.md",
+    "SW Design and Architecture/Dependency Inversion.md",
+    "SW Design and Architecture/IOC.md",
     "SW Design and Architecture/Clean code.md",
+    "SW Design and Architecture/Avoid passing null, booleans.md",
+    "Problem solving",
+    "SB/SB.md",
+    "Java/Single thread.md",
+    "Java/Lambda Expression.md",
+    "Centralize Log Parser",
+    "Tech vocabs",
     "Excalidraw",
     "SW Design and Architecture",
     "Java",
     "Assets",
-    "Architecture",
+    "SW Design and Architecture/Architecture",
     "SB"
   ]
 }
