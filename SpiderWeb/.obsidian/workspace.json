@@ -208,7 +208,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SW Design and Architecture/Cohension.md",
+                "file": "SW Design and Architecture/Design Pattern.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "750e3ab18cc5634c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Guru.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd5f142998e8db9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creational Patterns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -216,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -282,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW Design and Architecture/Cohension.md",
+                "file": "Creational Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SW Design and Architecture/Cohension.md",
+                "file": "Creational Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SW Design and Architecture/Cohension.md"
+                "file": "Creational Patterns.md"
               }
             }
           },
@@ -370,12 +396,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8780a22f846b087",
+  "active": "dd5f142998e8db9d",
   "lastOpenFiles": [
+    "SW Design and Architecture/Guru.md",
+    "Creational Patterns.md",
+    "SW Design and Architecture/Design Pattern.md",
+    "SW Design and Architecture/Cohension.md",
     "Build real time system.md",
     "Problem solving/Problem solving.md",
     "Problem solving/Sync database in microservices.md",
-    "SW Design and Architecture/Cohension.md",
     "Pasted image 20240322102509.png",
     "SW Design and Architecture/Coupling.md",
     "SW Design and Architecture/SW Design and Architecture.md",
@@ -395,7 +424,6 @@
     "No category/Declarative programming.md",
     "Pasted image 20240321093622.png",
     "No category",
-    "SW Design and Architecture/Design Pattern.md",
     "SB/Spring vs Spring Boot.md",
     "Assets/Pasted image 20240317214806.png",
     "Assets/Pasted image 20240319112227.png",
@@ -408,8 +436,6 @@
     "SW Design and Architecture/Avoid passing null, booleans.md",
     "Problem solving",
     "SB/SB.md",
-    "Java/Single thread.md",
-    "Java/Lambda Expression.md",
     "Centralize Log Parser",
     "Tech vocabs",
     "Excalidraw",
