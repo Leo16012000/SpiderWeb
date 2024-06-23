@@ -24,5 +24,6 @@
   "audio-recorder",
   "workspaces",
   "file-recovery",
-  "publish"
+  "publish",
+  "sync"
 ]

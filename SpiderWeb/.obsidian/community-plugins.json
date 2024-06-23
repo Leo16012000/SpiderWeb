@@ -1,5 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "dataview",
-  "smart-connections"
+  "smart-connections",
+  "obsidian-to-anki-plugin",
+  "obsidian-spaced-repetition"
 ]

@@ -7,3 +7,4 @@ Explain query
 ![[Pasted image 20240322091547.png]]
 Comparator comparing java
 HashSet vs TreeSet
+Lv1 Lv2 Cache in Hibernate: Lv1 only cache for session (a transation, lasts until it commits), lv2 cache across session

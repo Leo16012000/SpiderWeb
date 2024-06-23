@@ -16,7 +16,7 @@ public class Car {
 }
 
 ```
-[[Life Cycle ???]]
+[[Life Cycle]]
 
 [[Bean Annotation]]
 [[5 Scope]]

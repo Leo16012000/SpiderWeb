@@ -3,3 +3,5 @@
 [[Dependency Injection]]
 [[Application Context]]
 [[Annotation]]
+[[Inversion of Control]]
+[[Garbage Collector]]

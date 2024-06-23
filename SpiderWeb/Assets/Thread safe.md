@@ -1,0 +1,1 @@
+pure function can be invoked without synchronization 
