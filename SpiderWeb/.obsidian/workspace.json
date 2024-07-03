@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "SB/SB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5f9f0d495fc6211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Days/240611.md",
                 "mode": "source",
                 "backlinks": true,
@@ -21,7 +34,7 @@
             }
           },
           {
-            "id": "42f293ece7bd7fd4",
+            "id": "88e73c280409110d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +47,51 @@
             }
           },
           {
+            "id": "10cda3ab5706eceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Days/2406.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f293ece7bd7fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ac7616ce35ba448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SB/SB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0d4e43c325c38c5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "file": "Method References.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "singleton",
+                "query": "distri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "file": "Days/2406.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "file": "Days/2406.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SW Design and Architecture/SW Design and Architecture.md"
+                "file": "Days/2406.md"
               }
             }
           },
@@ -235,8 +287,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0d4e43c325c38c5d",
+  "active": "10cda3ab5706eceb",
   "lastOpenFiles": [
+    "Distributed System.md",
+    "Days/240617.md",
+    "Pasted image 20240630211745.png",
+    "Pasted image 20240630211613.png",
+    "Days/240611.md",
+    "Best practices SB.md",
+    "SB/SB.md",
+    "Default Method.md",
+    "Java/Java 8.md",
+    "Method References.md",
+    "SW Design and Architecture/SW Design and Architecture.md",
     "Java/Java 12.md",
     "Java/Java 14.md",
     "Java/Java 16.md",
@@ -248,22 +311,12 @@
     "SB/5 Scope.md",
     "Interviews/Interview metrics.md",
     "Days/2406.md",
-    "Distributed System.md",
     "SW Design and Architecture/Kafka.md",
     "Pasted image 20240617214851.png",
-    "Days/240617.md",
     "Assets/Kafka 3 main components.md",
-    "Days/240611.md",
     "Days/240615.md",
     "Days/240613.md",
     "Days/240605.md",
-    "Days/240608.md",
-    "Interviews/Interview Prepare 03_05_24.md",
-    "Interviews/Interview questions.md",
-    "Java/Java 8.md",
-    "Java/Java.md",
-    "Builder.md",
-    "SW Design and Architecture/SW Design and Architecture.md",
     "Pasted image 20240608103739.png",
     "Days",
     "FE/CSS",
@@ -274,8 +327,6 @@
     "Assets/Pasted image 20240422230911.png",
     "Assets/Pasted image 20240422223053.png",
     "Assets/Pasted image 20240422221536.png",
-    "Assets/Pasted image 20240422203308.png",
-    "Assets/Pasted image 20240416182527.png",
     "Interviews",
     "LC",
     "Sample System/Payment System",
