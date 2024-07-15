@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "7eb1fac3680a5ebe",
+        "id": "e703a4eedebc3242",
         "type": "tabs",
         "children": [
           {
-            "id": "3b491e149503706d",
+            "id": "e048887ae4427389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Go.md",
+                "file": "SG/Thumbnail.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00a9d14c2f0412cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thumbnail Q&A.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8ddf995b47793a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Imagick.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Go.md",
+                "file": "Thumbnail Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Go.md",
+                "file": "Thumbnail Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Go.md"
+                "file": "Thumbnail Q&A.md"
               }
             }
           },
@@ -181,17 +208,31 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "3b491e149503706d",
+  "active": "00a9d14c2f0412cd",
   "lastOpenFiles": [
-    "Java/Functional Interface.md",
-    "Days/240605.md",
-    "Java/Java 11.md",
-    "Days/2024-07-04.md",
-    "Excalidraw/Drawing 2024-07-04 15.12.15.excalidraw.md",
+    "Imagick.md",
+    "SG/Thumbnail.md",
+    "Thumbnail Q&A.md",
+    "Pasted image 20240715155257.png",
+    "Pasted image 20240715154509.png",
     "Go/Go.md",
+    "Days/2024-07-05.md",
+    "2024-07-05.md",
+    "Days/2024-07-04.md",
+    "Days/2406.md",
+    "Days/240605.md",
+    "Days/240608.md",
+    "Days/240611.md",
+    "Days/240613.md",
+    "Days/240615.md",
+    "Days/240617.md",
+    "Java/Functional Interface.md",
+    "Java/Java 11.md",
+    "Excalidraw/Drawing 2024-07-04 15.12.15.excalidraw.md",
     "2024-W27.md",
     "Concurrency.md",
     "Mac/Mac.md",
@@ -204,30 +245,16 @@
     "Assets/Pasted image 20240608103739.png",
     "Assets/Pasted image 20240502092843.png",
     "Assets/Inversion of Control.md",
-    "Assets/HashMap vs TreeMap.md",
-    "Assets/Garbage Collector.md",
-    "Assets/Distributed System.md",
-    "SG/SG.md",
     "SG",
     "Go",
     "Assets/Pasted image 20240617214851.png",
     "Assets/Pasted image 20240608103739.png",
     "Assets/Pasted image 20240502092843.png",
-    "Assets/Inversion of Control.md",
-    "Assets/HashMap vs TreeMap.md",
-    "Assets/Garbage Collector.md",
-    "Assets/Distributed System.md",
-    "Assets/@Bean.md",
     "Assets/Pasted image 20240630211745.png",
     "Assets/Pasted image 20240630211613.png",
-    "Assets/Method References.md",
-    "Java/Java.md",
-    "SB/Bean Annotation.md",
     "Days",
     "FE/CSS",
     "FE",
-    "Assets/Pasted image 20240423172813.png",
-    "Assets/Pasted image 20240422231111.png",
     "Interviews",
     "LC",
     "Sample System/Payment System",
