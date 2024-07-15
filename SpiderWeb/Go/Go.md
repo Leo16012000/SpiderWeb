@@ -58,7 +58,7 @@ b := make(int[],0 ,5) -> len(0), cap(b)=5
 ```
 loop slice, 0->len(slice)
 [[Slice literals]] same arr, no fix length
-[[Slice default]] 
+[[Slice default]] = nil; len = cap = 0, no underlying arr
 [[map]] map[keyType]valueType
 [[2024-07-05]]
 := cannot use outside function

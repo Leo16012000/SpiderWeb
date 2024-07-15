@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e703a4eedebc3242",
+        "id": "114dc85c8bfa899d",
         "type": "tabs",
         "children": [
           {
-            "id": "e048887ae4427389",
+            "id": "d8055843a58d3732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Thumbnail.md",
+                "file": "SB/SB.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "00a9d14c2f0412cd",
+            "id": "c5f9f0d495fc6211",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thumbnail Q&A.md",
+                "file": "Days/240611.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,90 @@
             }
           },
           {
-            "id": "b8ddf995b47793a8",
+            "id": "88e73c280409110d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imagick.md",
+                "file": "Days/240617.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10cda3ab5706eceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/Go.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "153833d7bb0f784f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Days/2024-07-15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f293ece7bd7fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ac7616ce35ba448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SB/SB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0a8f15404d05780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Kafka.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94ef7fb2e12765e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Kafka 3 main components.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -76,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "distri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thumbnail Q&A.md",
+                "file": "Days/2024-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thumbnail Q&A.md",
+                "file": "Days/2024-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thumbnail Q&A.md"
+                "file": "Days/2024-07-15.md"
               }
             }
           },
@@ -184,6 +262,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "1cc8664583b28c13",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
@@ -206,52 +292,52 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
+      "copilot:Copilot Chat": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false,
-      "copilot:Copilot Chat": false
+      "mxmind:Mxmind": false
     }
   },
-  "active": "00a9d14c2f0412cd",
+  "active": "7d5e4206aef31732",
   "lastOpenFiles": [
-    "Imagick.md",
-    "SG/Thumbnail.md",
     "Thumbnail Q&A.md",
+    "Days/2024-07-15.md",
+    "Java/Java 16.md",
+    "SW Design and Architecture/Monad.md",
+    "Days/240605.md",
+    "Assets/Exception.md",
+    "SW Design and Architecture/Dependency Inversion.md",
+    "SW Design and Architecture/OOP.md",
+    "SB/Annotation.md",
+    "Java/Java.md",
+    "Go/Go.md",
+    "Problem solving/Build real time system.md",
+    "Assets/throw vs throws.md",
+    "Days/2024-07-05.md",
+    "SB/SB.md",
+    "SG/Thumbnail.md",
+    "SG",
     "Pasted image 20240715155257.png",
     "Pasted image 20240715154509.png",
-    "Go/Go.md",
-    "Days/2024-07-05.md",
-    "2024-07-05.md",
-    "Days/2024-07-04.md",
+    "Imagick.md",
     "Days/2406.md",
-    "Days/240605.md",
-    "Days/240608.md",
-    "Days/240611.md",
-    "Days/240613.md",
-    "Days/240615.md",
-    "Days/240617.md",
-    "Java/Functional Interface.md",
-    "Java/Java 11.md",
-    "Excalidraw/Drawing 2024-07-04 15.12.15.excalidraw.md",
-    "2024-W27.md",
-    "Concurrency.md",
     "Mac/Mac.md",
-    "Assets/Builder.md",
     "Mac",
-    "Assets/Best practices SB.md",
-    "Assets/Default Method.md",
-    "SB/SB.md",
-    "Assets/Pasted image 20240617214851.png",
-    "Assets/Pasted image 20240608103739.png",
-    "Assets/Pasted image 20240502092843.png",
-    "Assets/Inversion of Control.md",
-    "SG",
     "Go",
-    "Assets/Pasted image 20240617214851.png",
-    "Assets/Pasted image 20240608103739.png",
-    "Assets/Pasted image 20240502092843.png",
+    "Excalidraw/Drawing 2024-07-04 15.12.15.excalidraw.md",
+    "Days/2024-07-04.md",
     "Assets/Pasted image 20240630211745.png",
     "Assets/Pasted image 20240630211613.png",
+    "Assets/Pasted image 20240617214851.png",
+    "Assets/Pasted image 20240608103739.png",
+    "Assets/Pasted image 20240502092843.png",
+    "Assets/Method References.md",
+    "Assets/Inversion of Control.md",
+    "Assets/HashMap vs TreeMap.md",
+    "Assets/Garbage Collector.md",
+    "Assets/Distributed System.md",
+    "Pasted image 20240630211745.png",
+    "Pasted image 20240630211613.png",
+    "Pasted image 20240617214851.png",
     "Days",
     "FE/CSS",
     "FE",
