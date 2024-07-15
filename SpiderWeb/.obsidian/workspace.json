@@ -4,23 +4,115 @@
     "type": "split",
     "children": [
       {
-        "id": "7eb1fac3680a5ebe",
+        "id": "114dc85c8bfa899d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b491e149503706d",
+            "id": "d8055843a58d3732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Go.md",
+                "file": "SB/SB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5f9f0d495fc6211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Days/240611.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88e73c280409110d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Days/240617.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10cda3ab5706eceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f293ece7bd7fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ac7616ce35ba448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SB/SB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0a8f15404d05780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SW Design and Architecture/Kafka.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94ef7fb2e12765e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Kafka 3 main components.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "distri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Go.md",
+                "file": "SB/SB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Go.md",
+                "file": "SB/SB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Go.md"
+                "file": "SB/SB.md"
               }
             }
           },
@@ -157,6 +250,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "1cc8664583b28c13",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
@@ -180,57 +281,56 @@
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3b491e149503706d",
+  "active": "237d72bdd1b21e83",
   "lastOpenFiles": [
-    "Java/Functional Interface.md",
-    "Days/240605.md",
-    "Java/Java 11.md",
-    "Days/2024-07-04.md",
-    "Excalidraw/Drawing 2024-07-04 15.12.15.excalidraw.md",
     "Go/Go.md",
-    "2024-W27.md",
-    "Concurrency.md",
+    "Days/2406.md",
     "Mac/Mac.md",
-    "Assets/Builder.md",
     "Mac",
-    "Assets/Best practices SB.md",
-    "Assets/Default Method.md",
-    "SB/SB.md",
-    "Assets/Pasted image 20240617214851.png",
-    "Assets/Pasted image 20240608103739.png",
-    "Assets/Pasted image 20240502092843.png",
-    "Assets/Inversion of Control.md",
-    "Assets/HashMap vs TreeMap.md",
-    "Assets/Garbage Collector.md",
-    "Assets/Distributed System.md",
-    "SG/SG.md",
-    "SG",
     "Go",
-    "Assets/Pasted image 20240617214851.png",
-    "Assets/Pasted image 20240608103739.png",
-    "Assets/Pasted image 20240502092843.png",
-    "Assets/Inversion of Control.md",
-    "Assets/HashMap vs TreeMap.md",
-    "Assets/Garbage Collector.md",
-    "Assets/Distributed System.md",
-    "Assets/@Bean.md",
+    "Excalidraw/Drawing 2024-07-04 15.12.15.excalidraw.md",
+    "Days/2024-07-04.md",
     "Assets/Pasted image 20240630211745.png",
     "Assets/Pasted image 20240630211613.png",
+    "Assets/Pasted image 20240617214851.png",
+    "Assets/Pasted image 20240608103739.png",
+    "Assets/Pasted image 20240502092843.png",
     "Assets/Method References.md",
-    "Java/Java.md",
-    "SB/Bean Annotation.md",
+    "Assets/Inversion of Control.md",
+    "Assets/HashMap vs TreeMap.md",
+    "Assets/Garbage Collector.md",
+    "Assets/Distributed System.md",
+    "Assets/Default Method.md",
+    "Assets/Builder.md",
+    "Assets/Best practices SB.md",
+    "Distributed System.md",
+    "Days/240617.md",
+    "Pasted image 20240630211745.png",
+    "Pasted image 20240630211613.png",
+    "Days/240611.md",
+    "Best practices SB.md",
+    "SB/SB.md",
+    "Default Method.md",
+    "Java/Java 8.md",
+    "Method References.md",
+    "SW Design and Architecture/SW Design and Architecture.md",
+    "Java/Java 12.md",
+    "Java/Java 14.md",
+    "Java/Java 16.md",
+    "Java/Java 17.md",
+    "Pasted image 20240617214851.png",
+    "Pasted image 20240608103739.png",
     "Days",
     "FE/CSS",
+    "Pasted image 20240502092843.png",
     "FE",
-    "Assets/Pasted image 20240423172813.png",
-    "Assets/Pasted image 20240422231111.png",
     "Interviews",
     "LC",
     "Sample System/Payment System",
-    "Sample System"
+    "Sample System",
+    "No category"
   ]
 }
