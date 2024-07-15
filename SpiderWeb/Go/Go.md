@@ -22,12 +22,12 @@ bool ==
 string immutable
 [[Important]]
 default value: number -> 0; bool->false; string -> "", pointer -> nil, nil slice -> length 0, capacity 0
-case: type(value)
+cast: type(value)
 const: no :=
 [[for]]
 init & post optional
 [[for, if]] no need (); {}
-[[if]] init
+[[if]] init, also avai in else
 [[switch case]] auto break, no need const, switch true,
 [[defer]] stack, resource clean
 [[pointer]] &, \*p
@@ -44,13 +44,14 @@ p:=&v
 p.X = 3 //íntead of (*p).X = 3 shortened
 ```
 [[Arr]] [size]T
-[[Slice]] []T (bản chất)
+[[Slice]] []T 
+dependent on array, mảng nền
 ```go
 primes := [6]{1,2,3,4,5,6}
 var s []int = primes[1:4] -> 2,3,4
 s[0] = 100 -> primes[1] = 100
 ```
-length & capacity, capacity only change when starting index change, make function
+pointer, length & capacity, capacity only change when starting index change, make function
 ```go
 a := make(int[], 5) -> len(a)=5
 b := make(int[],0 ,5) -> len(0), cap(b)=5
@@ -59,8 +60,8 @@ loop slice, 0->len(slice)
 [[Slice literals]] same arr, no fix length
 [[Slice default]] 
 [[map]] map[keyType]valueType
-
-
+[[2024-07-05]]
+:= cannot use outside function
 
 
 \
