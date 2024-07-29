@@ -62,7 +62,17 @@ loop slice, 0->len(slice)
 [[map]] map[keyType]valueType
 [[2024-07-05]]
 := cannot use outside function
-
+[[2024-07-16]]
+why need make?
+<mark style="background: #FF5582A6;">range</mark> i,v 
+[[2024-07-17]] 
+<mark style="background: #FF5582A6;">Access modifier golang</mark>
+exported & unexported
+[[2024-07-23]]
+# Goroutine vs thread
+less memory, go keyword
+* Go fix thread problem: dynamic allocate(start with 2-4KB instead of 1-2MB; max size could reach to 1 GB) -> use thousands of goroutines
+[[OS#Thread]]
 
 \
 
