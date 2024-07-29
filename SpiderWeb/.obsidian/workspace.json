@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handbook/SB.md",
+                "file": "SG/Linker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handbook/SB.md",
+                "file": "SG/Linker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handbook/SB.md",
+                "file": "SG/Linker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handbook/SB.md"
+                "file": "SG/Linker.md"
               }
             }
           },
@@ -195,9 +195,9 @@
   },
   "active": "66b73c4d15141f58",
   "lastOpenFiles": [
+    "Handbook/SB.md",
     "OS/OS.md",
     "Days/2024-07-26.md",
-    "Handbook/SB.md",
     "SB/SB.md",
     "SG/SG.md",
     "SG/Linker.md",
