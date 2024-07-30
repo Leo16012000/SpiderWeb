@@ -7,10 +7,11 @@ features?
 launch: request to run uploader (like login)
 register build: return build id and presign url
 finish upload: after uploader upload to S3, save build data to mysql
-poll API: get list builds???
+poll API: get list builds??? create presign url
 update status upload: 
 
 why need register build? presigned URLs S3
 presigned URLs S3? grant temp access, time period, direct upload without server
 DPMS? Version management service
 Stove DRM?
+why gradle for the project?
