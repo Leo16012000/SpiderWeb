@@ -16,6 +16,7 @@ condition when navigate? **keep login state(SSO)**
 function expose for schemes(wiki doc)? 
 how value send? parameter or anyway else? need to clarify for each case!
 defer what for? **after install app, it will navigate to exactly destination (but even when logon or not?)**
+How to define Ipad as mobile devices? 
 [[2024-07-22]]
 **chrome intents**: use for android only
 ```
