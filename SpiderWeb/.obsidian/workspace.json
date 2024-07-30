@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Linker.md",
+                "file": "SG/Build pipeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Linker.md",
+                "file": "SG/Build pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Linker.md",
+                "file": "SG/Build pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Linker.md"
+                "file": "SG/Build pipeline.md"
               }
             }
           },
@@ -195,12 +195,13 @@
   },
   "active": "66b73c4d15141f58",
   "lastOpenFiles": [
+    "SG/Linker.md",
+    "SG/Build pipeline.md",
     "Handbook/SB.md",
     "OS/OS.md",
     "Days/2024-07-26.md",
     "SB/SB.md",
     "SG/SG.md",
-    "SG/Linker.md",
     "Days/2024-07-25.md",
     "Days/2024-07-24.md",
     "Handbook",
@@ -224,7 +225,6 @@
     "Days/2024-07-17.md",
     "Go/Echo Kickstart.md",
     "LC/LC.md",
-    "These shortcuts save my life/Shortcut.md",
     "These shortcuts save my life",
     "Assets/Pasted image 20240716084531.png",
     "Assets/Pasted image 20240715155257.png",
