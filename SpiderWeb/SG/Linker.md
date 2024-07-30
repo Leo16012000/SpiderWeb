@@ -3,18 +3,19 @@ deadline 16/8
 live 30/8
 universal link
 # Q & A
-deeplink what for? navigation
-deeplink types? 5 types: scheme, chrome intent, Universal, App, Defered
-universal link what is? for ios, could redirect to install app
-what is currently problem? only impl with custom scheme, which could not redirect if the app has not installed yet
-use where? main, community, store, lounge pages
-what info need to create one? country, language
-flow? simple flow, install app if it has not installed yet, launch app, navigate on app to where user was on web
-condition when navigate? keep login state(SSO)
-could we impl defered?
-why it's hard?
+deeplink what for? **navigation**
+deeplink types? **5 types: scheme, chrome intent, Universal, App, Defered**
+universal link what is? **for ios, could redirect to install app**
+what is currently problem? **only impl with custom scheme, which could not redirect if the app has not installed yet**
+use where? **main, community, store, lounge pages**
+what info need to create one? **country, language**
+flow? **simple flow, install app if it has not installed yet, launch app, navigate on app to where user was on web**
+condition when navigate? **keep login state(SSO)**
+<mark style="background: #FF5582A6;">could we impl defered?</mark>
+<mark style="background: #FF5582A6;">why it's hard? </mark>
 function expose for schemes(wiki doc)? 
 how value send? parameter or anyway else? need to clarify for each case!
+defer what for? **after install app, it will navigate to exactly destination (but even when logon or not?)**
 [[2024-07-22]]
 **chrome intents**: use for android only
 ```
