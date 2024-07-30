@@ -10,3 +10,4 @@ register build: return build id and presign url
 why need register build? presigned URLs S3
 presigned URLs S3? grant temp access, time period, direct upload without server
 DPMS? Version management service
+Stove DRM?
