@@ -21,22 +21,12 @@
             }
           },
           {
-            "id": "00a9d14c2f0412cd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240715154509.png"
-              }
-            }
-          },
-          {
-            "id": "b8ddf995b47793a8",
+            "id": "ca705ae11c46108c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imagick.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240715154509.png",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240715154509.png",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240715154509.png"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -213,10 +203,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "00a9d14c2f0412cd",
+  "active": "ca705ae11c46108c",
   "lastOpenFiles": [
-    "Pasted image 20240715155257.png",
     "Pasted image 20240715154509.png",
+    "conflict-files-obsidian-git.md",
+    "These shortcuts save my life/Shortcut.md",
+    "These shortcuts save my life",
+    "SG/SG.md",
+    "SG/Partner stove app.md",
+    "SG/Linker.md",
+    "SG/Build pipeline.md",
+    "OS/OS.md",
+    "OS",
+    "Handbook/SB.md",
+    "Handbook",
+    "Go/Echo Kickstart.md",
+    "Days/2024-07-26.md",
+    "Days/2024-07-25.md",
+    "Days/2024-07-24.md",
+    "Days/2024-07-23.md",
+    "Days/2024-07-22.md",
+    "Days/2024-07-17.md",
+    "Days/2024-07-16.md",
+    "Assets/Thumbnail Q&A.md",
+    "Assets/Pasted image 20240723084917.png",
+    "Assets/Pasted image 20240722115418.png",
+    "Assets/Pasted image 20240716084531.png",
+    "Assets/Pasted image 20240715155257.png",
+    "Assets/Pasted image 20240715154509.png",
+    "Assets/Imagick.md",
+    "Pasted image 20240715155257.png",
     "Imagick.md",
     "Thumbnail Q&A.md",
     "Days/2024-07-15.md",
@@ -224,41 +240,15 @@
     "Go/Go.md",
     "Days/2024-07-05.md",
     "2024-07-05.md",
-    "Days/2024-07-04.md",
-    "Days/2406.md",
-    "Days/240605.md",
-    "Days/240608.md",
-    "Days/240611.md",
-    "Days/240613.md",
-    "Days/240615.md",
-    "Days/240617.md",
-    "Java/Functional Interface.md",
-    "Java/Java 11.md",
-    "Excalidraw/Drawing 2024-07-04 15.12.15.excalidraw.md",
-    "2024-W27.md",
-    "Concurrency.md",
-    "Mac/Mac.md",
-    "Assets/Builder.md",
     "Mac",
-    "Assets/Best practices SB.md",
-    "Assets/Default Method.md",
-    "SB/SB.md",
     "Assets/Pasted image 20240617214851.png",
     "Assets/Pasted image 20240608103739.png",
     "Assets/Pasted image 20240502092843.png",
     "SG",
     "Go",
-    "Assets/Pasted image 20240617214851.png",
-    "Assets/Pasted image 20240608103739.png",
-    "Assets/Pasted image 20240502092843.png",
-    "Assets/Pasted image 20240630211745.png",
-    "Assets/Pasted image 20240630211613.png",
     "Days",
     "FE/CSS",
     "FE",
-    "Interviews",
-    "LC",
-    "Sample System/Payment System",
-    "Sample System"
+    "Interviews"
   ]
 }
