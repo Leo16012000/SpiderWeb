@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e048887ae4427389",
+            "id": "66b73c4d15141f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Thumbnail.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca705ae11c46108c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SG/Build pipeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SG/Build pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SG/Build pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "SG/Build pipeline.md"
               }
             }
           },
@@ -173,15 +159,15 @@
             }
           },
           {
-            "id": "9fd53459198ed092",
+            "id": "60677e6007579c87",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "copilot-chat-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -200,52 +186,57 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "copilot:Copilot Chat": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ca705ae11c46108c",
+  "active": "66b73c4d15141f58",
   "lastOpenFiles": [
-    "Pasted image 20240715154509.png",
     "conflict-files-obsidian-git.md",
-    "These shortcuts save my life/Shortcut.md",
-    "These shortcuts save my life",
-    "SG/SG.md",
-    "SG/Partner stove app.md",
     "SG/Linker.md",
     "SG/Build pipeline.md",
-    "OS/OS.md",
-    "OS",
     "Handbook/SB.md",
-    "Handbook",
-    "Go/Echo Kickstart.md",
+    "OS/OS.md",
     "Days/2024-07-26.md",
+    "SB/SB.md",
+    "SG/SG.md",
     "Days/2024-07-25.md",
     "Days/2024-07-24.md",
+    "Handbook",
+    "SG/Partner stove app.md",
+    "SG/Thumbnail.md",
+    "Go/Go.md",
+    "Thread.md",
+    "Assets/Pasted image 20240723084917.png",
+    "Assets/Imagick.md",
+    "OS",
     "Days/2024-07-23.md",
+    "Days/240617.md",
+    "Days/240615.md",
+    "Days/240613.md",
+    "Days/240611.md",
+    "Days/240608.md",
+    "Days/240605.md",
+    "Days/2406.md",
+    "Assets/Pasted image 20240722115418.png",
     "Days/2024-07-22.md",
     "Days/2024-07-17.md",
-    "Days/2024-07-16.md",
-    "Assets/Thumbnail Q&A.md",
-    "Assets/Pasted image 20240723084917.png",
-    "Assets/Pasted image 20240722115418.png",
+    "Go/Echo Kickstart.md",
+    "These shortcuts save my life",
     "Assets/Pasted image 20240716084531.png",
     "Assets/Pasted image 20240715155257.png",
     "Assets/Pasted image 20240715154509.png",
-    "Assets/Imagick.md",
-    "Pasted image 20240715155257.png",
-    "Imagick.md",
-    "Thumbnail Q&A.md",
-    "Days/2024-07-15.md",
-    "SG/Thumbnail.md",
-    "Go/Go.md",
-    "Days/2024-07-05.md",
-    "2024-07-05.md",
     "Mac",
     "Assets/Pasted image 20240617214851.png",
     "Assets/Pasted image 20240608103739.png",
     "Assets/Pasted image 20240502092843.png",
     "SG",
     "Go",
+    "Assets/Pasted image 20240617214851.png",
+    "Assets/Pasted image 20240608103739.png",
     "Days",
     "FE/CSS",
     "FE",
