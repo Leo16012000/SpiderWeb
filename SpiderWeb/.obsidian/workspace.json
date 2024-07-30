@@ -24,12 +24,9 @@
             "id": "00a9d14c2f0412cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Thumbnail Q&A.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Pasted image 20240715154509.png"
               }
             }
           },
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thumbnail Q&A.md",
+                "file": "Pasted image 20240715154509.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thumbnail Q&A.md",
+                "file": "Pasted image 20240715154509.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thumbnail Q&A.md"
+                "file": "Pasted image 20240715154509.png"
               }
             }
           },
@@ -184,6 +181,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "9fd53459198ed092",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
@@ -205,21 +210,17 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false,
-      "copilot:Copilot Chat": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "00a9d14c2f0412cd",
   "lastOpenFiles": [
-    "Days/2024-07-15.md",
-    "Imagick.md",
-    "SG/Thumbnail.md",
-    "Thumbnail Q&A.md",
     "Pasted image 20240715155257.png",
     "Pasted image 20240715154509.png",
+    "Imagick.md",
+    "Thumbnail Q&A.md",
+    "Days/2024-07-15.md",
+    "SG/Thumbnail.md",
     "Go/Go.md",
     "Days/2024-07-05.md",
     "2024-07-05.md",
@@ -245,7 +246,6 @@
     "Assets/Pasted image 20240617214851.png",
     "Assets/Pasted image 20240608103739.png",
     "Assets/Pasted image 20240502092843.png",
-    "Assets/Inversion of Control.md",
     "SG",
     "Go",
     "Assets/Pasted image 20240617214851.png",
