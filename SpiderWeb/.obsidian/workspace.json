@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Thumbnail.md",
+                "file": "Interviews/Interview prepare 05_08_24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Thumbnail.md",
+                "file": "Interviews/Interview prepare 05_08_24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Thumbnail.md",
+                "file": "Interviews/Interview prepare 05_08_24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Thumbnail.md"
+                "file": "Interviews/Interview prepare 05_08_24.md"
               }
             }
           },
@@ -165,14 +165,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "54c3f0724c6e12cb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,13 +197,20 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e048887ae4427389",
+  "active": "54c3f0724c6e12cb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "smart-chats",
+    "Interviews/Interview Prepare 03_05_24.md",
+    "Interviews/Interview prepare 05_08_24.md",
+    "Interviews/Interview metrics.md",
+    "Interviews/Interview questions.md",
     "SG/Thumbnail.md",
+    "conflict-files-obsidian-git.md",
     "Tech compare/Long polling vs Websocket.md",
     "Tech compare",
     "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
@@ -226,12 +240,7 @@
     "Assets/Pasted image 20240716084531.png",
     "Assets/Pasted image 20240715155257.png",
     "Assets/Pasted image 20240715154509.png",
-    "Assets/Imagick.md",
     "Pasted image 20240715155257.png",
-    "Imagick.md",
-    "Thumbnail Q&A.md",
-    "Days/2024-07-15.md",
-    "Go/Go.md",
     "Mac",
     "Assets/Pasted image 20240617214851.png",
     "Assets/Pasted image 20240608103739.png",
