@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "119c9bd2f574375e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Thumbnail.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Thumbnail.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Thumbnail.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -193,9 +207,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e048887ae4427389",
+  "active": "119c9bd2f574375e",
   "lastOpenFiles": [
+    "SG/Thumbnail.md",
     "conflict-files-obsidian-git.md",
+    "Tech compare/Long polling vs Websocket.md",
+    "Tech compare",
+    "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+    "Days/2024-07-31.md",
     "Pasted image 20240715154509.png",
     "These shortcuts save my life/Shortcut.md",
     "These shortcuts save my life",
@@ -226,10 +245,7 @@
     "Imagick.md",
     "Thumbnail Q&A.md",
     "Days/2024-07-15.md",
-    "SG/Thumbnail.md",
     "Go/Go.md",
-    "Days/2024-07-05.md",
-    "2024-07-05.md",
     "Mac",
     "Assets/Pasted image 20240617214851.png",
     "Assets/Pasted image 20240608103739.png",
@@ -238,7 +254,6 @@
     "Go",
     "Days",
     "FE/CSS",
-    "FE",
-    "Interviews"
+    "FE"
   ]
 }

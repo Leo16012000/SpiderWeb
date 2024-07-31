@@ -66,8 +66,24 @@ func application(_ application: UIApplication, continue userActivity: NSUserActi
 ]
 
 ```
-
-
-
 why use echo framework? compare with gin?
+[[2024-07-31]]
+schema problems? 
+```javascript
+ scheme://host:port/path?query=xxxxxxx
+ -> specified page you want to jump to
+ -> query params need when reach the page
+ dis: no graceful fallback option
+ -> use http/https
+```
 
+```js
+//if fail, redirect to the app store/play store
+setTimeout(function () {
+	if(new Date().getTime() - now < 800) {
+		location.href = 'https:\/\/apps.apple.com\/app\/30751523';	
+	}
+}, 500);
+// Try to open application first
+setTimeout(function () {location.href = 'stoveapp:\/\/coupon';}, 100);
+```
