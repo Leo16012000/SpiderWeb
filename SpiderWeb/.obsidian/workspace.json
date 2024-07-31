@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Build pipeline - Code Structure.md",
+                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Build pipeline - Code Structure.md",
+                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Build pipeline - Code Structure.md",
+                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Build pipeline - Code Structure.md"
+                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md"
               }
             }
           },
@@ -207,10 +207,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7d5e4206aef31732",
+  "active": "551c2bb9f6f8aadd",
   "lastOpenFiles": [
     "SG/Build pipeline.md",
-    "SG/Build pipeline - Code Structure.md",
+    "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
     "SG/Linker.md",
     "SG/Partner stove app.md",
     "SG/SG.md",

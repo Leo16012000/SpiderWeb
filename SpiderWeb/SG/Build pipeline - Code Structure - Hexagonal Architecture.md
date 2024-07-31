@@ -9,7 +9,7 @@
 ## assert
 ## configuration
 
-#sampleCode
+# Hexagonal Research
 ```
 src/main/java/com/example/
 ├── application
@@ -29,5 +29,5 @@ src/main/java/com/example/
 │   │       └── rest
 │   └── config
 └── SpringBootApplication.java
-
 ```
+Core domain, Adapter, Port

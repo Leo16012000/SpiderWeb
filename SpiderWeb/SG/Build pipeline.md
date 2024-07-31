@@ -16,4 +16,4 @@ DPMS? Version management service
 Stove DRM?
 why gradle for the project?
 [[2024-07-31]]
-[[Build pipeline - Code Structure]]
+[[Build pipeline - Code Structure - Hexagonal Architecture]]
