@@ -31,3 +31,6 @@ src/main/java/com/example/
 └── SpringBootApplication.java
 ```
 Core domain, Adapter, Port
+Port: interface, app interact with external service-db-UI
+Adapter: impl of port, controller - repo-service
+Domain: BS & domain model
