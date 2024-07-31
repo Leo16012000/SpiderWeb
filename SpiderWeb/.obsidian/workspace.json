@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e703a4eedebc3242",
+        "id": "c14d80b3fe6876fa",
         "type": "tabs",
         "children": [
           {
-            "id": "66b73c4d15141f58",
+            "id": "826a3f6ff40714cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Linker.md",
+                "file": "SG/Build pipeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "fb3ba2de79b7691a",
+            "id": "551c2bb9f6f8aadd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2024-07-31.md",
+                "file": "SG/Build pipeline - Code Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Linker.md",
+                "file": "SG/Build pipeline - Code Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Linker.md",
+                "file": "SG/Build pipeline - Code Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Linker.md"
+                "file": "SG/Build pipeline - Code Structure.md"
               }
             }
           },
@@ -206,11 +207,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "66b73c4d15141f58",
+  "active": "7d5e4206aef31732",
   "lastOpenFiles": [
     "SG/Build pipeline.md",
-    "Days/2024-07-31.md",
+    "SG/Build pipeline - Code Structure.md",
     "SG/Linker.md",
+    "SG/Partner stove app.md",
+    "SG/SG.md",
+    "Days/2024-07-31.md",
     "Tech compare/Long polling vs Websocket.md",
     "Tech compare",
     "conflict-files-obsidian-git.md",
@@ -218,11 +222,9 @@
     "OS/OS.md",
     "Days/2024-07-26.md",
     "SB/SB.md",
-    "SG/SG.md",
     "Days/2024-07-25.md",
     "Days/2024-07-24.md",
     "Handbook",
-    "SG/Partner stove app.md",
     "SG/Thumbnail.md",
     "Go/Go.md",
     "Thread.md",
@@ -238,7 +240,6 @@
     "Days/240605.md",
     "Days/2406.md",
     "Assets/Pasted image 20240722115418.png",
-    "Days/2024-07-22.md",
     "These shortcuts save my life",
     "Assets/Pasted image 20240716084531.png",
     "Assets/Pasted image 20240715155257.png",

@@ -15,3 +15,5 @@ presigned URLs S3? grant temp access, time period, direct upload without server
 DPMS? Version management service
 Stove DRM?
 why gradle for the project?
+[[2024-07-31]]
+[[Build pipeline - Code Structure]]

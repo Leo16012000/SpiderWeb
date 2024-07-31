@@ -1,5 +1,4 @@
 [
-  "calendar",
   "obsidian-excalidraw-plugin",
   "dataview",
   "smart-connections",
@@ -8,5 +7,6 @@
   "periodic-notes",
   "copilot",
   "highlightr-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-mind-map"
 ]
