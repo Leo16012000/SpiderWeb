@@ -1,0 +1,14 @@
+
+| Feature                         | WebSockets                                                                                       | Long Polling                                                                                            |
+| ------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| **Real-Time Capability**        | Excellent, enables <mark style="background: #FFB86CA6;">true real-time</mark> communication.     | Good, but with <mark style="background: #FFB86CA6;">slight delays</mark> due to repeated HTTP requests. |
+| **Efficiency**                  | Highly efficient, minimal overhead after initial handshake.                                      | Less efficient, more HTTP overhead from frequent polling.                                               |
+| **Scalability**                 | More scalable, fewer resources required once the connection is established.                      | Less scalable, consumes more server and network resources due to frequent connections.                  |
+| **Complexity**                  | Higher complexity, requires infrastructure that supports persistent connections.                 | Simpler to implement on traditional HTTP servers.                                                       |
+| **Compatibility**               | Good with modern environments, but can face issues with older browsers or restrictive firewalls. | Excellent, works well even in restrictive network environments using standard HTTP.                     |
+| **Bidirectional Communication** | Full-duplex, server can push updates at any time.                                                | Essentially half-duplex, server responds only when polled by client.                                    |
+| **User Experience**             | Provides a smoother and more interactive user experience.                                        | Can feel less responsive due to polling intervals.                                                      |
+| **Infrastructure Needs**        | Requires server-side support for handling persistent connections.                                | Can be managed with traditional HTTP server setups without special handling for long connections.       |
+| **Security**                    | Requires careful security considerations due to open and persistent connections.                 | Uses standard HTTP security, but frequent reconnections could pose risks.                               |
+
+### Conclusion:
