@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Build pipeline.md",
+                "file": "SG/Linker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech compare/Long polling vs Websocket.md",
+                "file": "Days/2024-07-31.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech compare/Long polling vs Websocket.md",
+                "file": "SG/Linker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech compare/Long polling vs Websocket.md",
+                "file": "SG/Linker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech compare/Long polling vs Websocket.md"
+                "file": "SG/Linker.md"
               }
             }
           },
@@ -207,13 +206,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb3ba2de79b7691a",
+  "active": "66b73c4d15141f58",
   "lastOpenFiles": [
     "SG/Build pipeline.md",
+    "Days/2024-07-31.md",
+    "SG/Linker.md",
     "Tech compare/Long polling vs Websocket.md",
     "Tech compare",
     "conflict-files-obsidian-git.md",
-    "SG/Linker.md",
     "Handbook/SB.md",
     "OS/OS.md",
     "Days/2024-07-26.md",
@@ -239,7 +239,6 @@
     "Days/2406.md",
     "Assets/Pasted image 20240722115418.png",
     "Days/2024-07-22.md",
-    "Days/2024-07-17.md",
     "These shortcuts save my life",
     "Assets/Pasted image 20240716084531.png",
     "Assets/Pasted image 20240715155257.png",

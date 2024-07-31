@@ -66,8 +66,11 @@ func application(_ application: UIApplication, continue userActivity: NSUserActi
 ]
 
 ```
-
-
-
 why use echo framework? compare with gin?
-
+[[2024-07-31]]
+schema problems? 
+```
+ scheme://host:port/path?query=xxxxxxx
+ -> specified page you want to jump to
+ -> query params need when reachi
+```
