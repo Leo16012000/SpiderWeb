@@ -1,12 +1,11 @@
 [
+  "calendar",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "smart-connections",
   "obsidian-to-anki-plugin",
   "obsidian-spaced-repetition",
   "periodic-notes",
   "copilot",
   "highlightr-plugin",
-  "obsidian-git",
-  "obsidian-mind-map"
+  "obsidian-git"
 ]
