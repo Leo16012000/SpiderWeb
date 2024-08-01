@@ -197,9 +197,7 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
-      "periodic-notes:Open today": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "54c3f0724c6e12cb",
