@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32a87a4079e347e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Interview prepare 05_08_24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26dd3a0db9f06265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Interview prepare 05_08_24.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Interview prepare 05_08_24.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Interview prepare 05_08_24.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -200,15 +227,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54c3f0724c6e12cb",
+  "active": "26dd3a0db9f06265",
   "lastOpenFiles": [
-    "smart-chats",
-    "Interviews/Interview Prepare 03_05_24.md",
     "Interviews/Interview prepare 05_08_24.md",
+    "conflict-files-obsidian-git.md",
     "Interviews/Interview metrics.md",
     "Interviews/Interview questions.md",
+    "Pasted image 20240801114340.png",
+    "Pasted image 20240801110536.png",
+    "Pasted image 20240801110131.png",
+    "smart-chats",
+    "Interviews/Interview Prepare 03_05_24.md",
     "SG/Thumbnail.md",
-    "conflict-files-obsidian-git.md",
     "Tech compare/Long polling vs Websocket.md",
     "Tech compare",
     "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
@@ -240,13 +270,9 @@
     "Assets/Pasted image 20240715154509.png",
     "Pasted image 20240715155257.png",
     "Mac",
-    "Assets/Pasted image 20240617214851.png",
-    "Assets/Pasted image 20240608103739.png",
-    "Assets/Pasted image 20240502092843.png",
     "SG",
     "Go",
     "Days",
-    "FE/CSS",
-    "FE"
+    "FE/CSS"
   ]
 }
