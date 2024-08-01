@@ -15,3 +15,5 @@ what we achieve when apply this?
 **Seperation of concern:** seperate business from technical detail
 **Flexbility:** easy swapping components (db or external services)
 **Testability:** Easy to write unit tests, intergration tests, regard of seperate business
+**Scalibility**
+**DDD principle:** emphasizing the important of domain model
