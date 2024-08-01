@@ -32,5 +32,11 @@ src/main/java/com/example/
 ```
 Core domain, Adapter, Port
 Port: interface, app interact with external service-db-UI
-Adapter: impl of port, controller - repo-service
-Domain: BS & domain model
+Adapter: impl of port, controller-repo-service
+Domain: entity,dto,request,response
+# Ask
+![[Pasted image 20240801110131.png]]
+Port & Adapter what for?
+**Port: interface for foreign actor talk to app** -> like **USB port** let multiple devices to connect as long as they have **USB adapter**
+**Adapter: Controller**
+**Application: Core of the system**, contains service, domain model, receive request through port and send request out through port (send to db, for exp)
