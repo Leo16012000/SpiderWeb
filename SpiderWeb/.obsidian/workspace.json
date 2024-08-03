@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Interview prepare 05_08_24.md",
+                "file": "SB/Life Cycle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3417109d0b2eb92c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SB/SB.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +39,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Interview prepare 05_08_24.md",
+                "file": "Java/Java 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "204a736627f42ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Lambda Expression.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Interview prepare 05_08_24.md",
+                "file": "SB/Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Interview prepare 05_08_24.md",
+                "file": "SB/Life Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Interview prepare 05_08_24.md"
+                "file": "SB/Life Cycle.md"
               }
             }
           },
@@ -214,10 +239,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32a87a4079e347e0",
+  "active": "e048887ae4427389",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "SB/SB.md",
+    "SB/Life Cycle.md",
+    "Java/Lambda Expression.md",
+    "Java/Java 8.md",
+    "Java/Java 17.md",
+    "Java/Optional.md",
+    "Java/Single thread.md",
+    "Java/Muiltithread.md",
+    "Java/Java 9.md",
+    "Java/Functional Interface.md",
+    "Java/Java.md",
     "Interviews/Interview prepare 05_08_24.md",
+    "conflict-files-obsidian-git.md",
     "Interviews/Interview metrics.md",
     "Interviews/Interview questions.md",
     "Pasted image 20240801114340.png",
@@ -239,17 +275,7 @@
     "SG/Build pipeline.md",
     "OS/OS.md",
     "OS",
-    "Handbook/SB.md",
     "Handbook",
-    "Go/Echo Kickstart.md",
-    "Days/2024-07-26.md",
-    "Days/2024-07-25.md",
-    "Days/2024-07-24.md",
-    "Days/2024-07-23.md",
-    "Days/2024-07-22.md",
-    "Days/2024-07-17.md",
-    "Days/2024-07-16.md",
-    "Assets/Thumbnail Q&A.md",
     "Assets/Pasted image 20240723084917.png",
     "Assets/Pasted image 20240722115418.png",
     "Assets/Pasted image 20240716084531.png",
