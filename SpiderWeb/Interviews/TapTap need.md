@@ -1,10 +1,10 @@
 %%Đảo%%Java/J2EE 
 Java?
-%%con giấu tranh bỏ bao, phân thân chạy 8 hướng%%
+%%con, tranh, bao, phân thân thuật%%
 OOP? Inheritance -> Abstraction -> Encapsulation -> Polymorphism
-%%bao bố trùm lớp, bảo vệ trường xé bao bố%%
+%%bao bố, lớp, bảo vệ%%
 Encapsulation? Class encapsulate attributes, methods; Access modifiers (control data validation, expose method)
-%%%%
+%%thanh tra lợn, máy chạy, dịch giả, hòn đá nhỏ, hàng ghế trống%%
 checked & unchecked exception? 
 
 | Aspect                   | Checked Exceptions                                                          | Unchecked Exceptions                                                                                        |
