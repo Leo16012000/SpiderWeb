@@ -1,6 +1,7 @@
 # Java/J2EE
 Java?
-OOP? Inheritance -> Abstraction -> 
+OOP? Inheritance -> Abstraction -> Encapsulation -> Polymorphism
+Encapsulation? Class encapsulate attributes, methods; Access modifiers (control data validation, expose method)
 Microservices
 Spring
 Hibernate
