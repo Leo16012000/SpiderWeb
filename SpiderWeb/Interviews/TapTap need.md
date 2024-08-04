@@ -16,8 +16,30 @@ checked & unchecked exception?
 | **When to Use**          | For recoverable conditions where the application might handle the exception | For programming errors that could be avoided by better coding practices (e.g., null pointer, out of bounds) |
 | **Examples**             | `IOException`, `SQLException`                                               | `NullPointerException`, `ArrayIndexOutOfBoundsException`                                                    |
 Lambda expression & Closure? Java không Closure
-Object methods? clone(), equals(), getClasS(), hashCode(), notify() and wait()
-wait() chờ trên 1 thread, đợi thread khác gọi notify()
+%%Consider between notify(), notifyAll()%%
+Object methods? clone(), equals(), getClasS(), hashCode(), notify() and wait(), to String
+wait() chờ trên 1 thread, đợi thread khác gọi notify() hoặc notifyAll(). 
+```java
+public class Buffer { 
+	private final int capacity; 
+	private final Queue<Integer> queue = new LinkedList<>(); 
+	public Buffer(int capacity) { this.capacity = capacity; } 
+	public synchronized void put(int value) throws InterruptedException {             while (queue.size() == capacity) { 
+	        wait(); // Chờ cho đến khi có không gian trong buffer 
+	    } 
+	    queue.add(value); System.out.println("Produced " + value); 
+	    notify(); // Thông báo cho một thread đang chờ 
+	} 
+	public synchronized int get() throws InterruptedException { 
+		while (queue.isEmpty()) { 
+			wait(); // Chờ cho đến khi có phần tử trong buffer 
+		} 
+		int value = queue.poll(); 
+		System.out.println("Consumed " + value); 
+		notify(); // Thông báo cho một thread đang chờ return value; 
+		} 
+	}
+```
 Microservices
 Spring
 Hibernate
