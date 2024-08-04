@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Experience.md",
+                "file": "Interviews/TapTap need.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Experience.md",
+                "file": "Interviews/TapTap need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Experience.md",
+                "file": "Interviews/TapTap need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Experience.md"
+                "file": "Interviews/TapTap need.md"
               }
             }
           },
@@ -241,9 +241,10 @@
   },
   "active": "e048887ae4427389",
   "lastOpenFiles": [
+    "Interviews/Experience.md",
+    "Interviews/TapTap need.md",
     "Interviews/Interview questions.md",
     "Interviews/Interview prepare 05_08_24.md",
-    "Interviews/Experience.md",
     "Interviews/Interview Prepare 03_05_24.md",
     "Interviews/Interview metrics.md",
     "Java/Java.md",
@@ -273,7 +274,6 @@
     "SG/SG.md",
     "SG/Partner stove app.md",
     "SG/Linker.md",
-    "SG/Build pipeline.md",
     "OS",
     "Handbook",
     "Assets/Pasted image 20240723084917.png",
