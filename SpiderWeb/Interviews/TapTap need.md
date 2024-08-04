@@ -4,7 +4,7 @@ Java?
 OOP? Inheritance -> Abstraction -> Encapsulation -> Polymorphism
 %%bao bố, lớp, bảo vệ%%
 Encapsulation? Class encapsulate attributes, methods; Access modifiers (control data validation, expose method)
-%%thanh tra lợn, máy chạy, dịch giả, hòn đá nhỏ, hàng ghế trống%%
+%%thanh tra lợn, máy chạy, dịch giả, biển cảnh báo, hàng ghế trống%%
 checked & unchecked exception? 
 
 | Aspect                   | Checked Exceptions                                                          | Unchecked Exceptions                                                                                        |
