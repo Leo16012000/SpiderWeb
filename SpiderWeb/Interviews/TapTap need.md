@@ -59,6 +59,7 @@ public int hashCode() {
 @Override 
 public String toString() { return "Person{name='" + name + "', age=" + age + "}"; }
 ```
+atomic, volatile, synchronized? 
 Microservices
 Spring
 Hibernate
