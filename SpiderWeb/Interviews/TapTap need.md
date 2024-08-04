@@ -15,7 +15,7 @@ checked & unchecked exception?
 | **Declaration Required** | Must be declared in method signature or handled in a try-catch block        | Not required to be declared or handled explicitly                                                           |
 | **When to Use**          | For recoverable conditions where the application might handle the exception | For programming errors that could be avoided by better coding practices (e.g., null pointer, out of bounds) |
 | **Examples**             | `IOException`, `SQLException`                                               | `NullPointerException`, `ArrayIndexOutOfBoundsException`                                                    |
-Lambda
+Lambda expression & Closure? Java không Closure
 
 
 Microservices
