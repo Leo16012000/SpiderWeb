@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java.md",
+                "file": "Interviews/Experience.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java.md",
+                "file": "Interviews/Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java.md",
+                "file": "Interviews/Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java.md"
+                "file": "Interviews/Experience.md"
               }
             }
           },
@@ -241,6 +241,12 @@
   },
   "active": "e048887ae4427389",
   "lastOpenFiles": [
+    "Interviews/Interview questions.md",
+    "Interviews/Interview prepare 05_08_24.md",
+    "Interviews/Experience.md",
+    "Interviews/Interview Prepare 03_05_24.md",
+    "Interviews/Interview metrics.md",
+    "Java/Java.md",
     "SB/Life Cycle.md",
     "SB/SB.md",
     "Java/Lambda Expression.md",
@@ -251,16 +257,11 @@
     "Java/Muiltithread.md",
     "Java/Java 9.md",
     "Java/Functional Interface.md",
-    "Java/Java.md",
-    "Interviews/Interview prepare 05_08_24.md",
     "conflict-files-obsidian-git.md",
-    "Interviews/Interview metrics.md",
-    "Interviews/Interview questions.md",
     "Pasted image 20240801114340.png",
     "Pasted image 20240801110536.png",
     "Pasted image 20240801110131.png",
     "smart-chats",
-    "Interviews/Interview Prepare 03_05_24.md",
     "SG/Thumbnail.md",
     "Tech compare/Long polling vs Websocket.md",
     "Tech compare",
@@ -273,7 +274,6 @@
     "SG/Partner stove app.md",
     "SG/Linker.md",
     "SG/Build pipeline.md",
-    "OS/OS.md",
     "OS",
     "Handbook",
     "Assets/Pasted image 20240723084917.png",
