@@ -1,6 +1,7 @@
-%%  %%va/J2EE 
+%% Đảo%%Java/J2EE 
 Java?
 %%con giấu hình bỏ bao, phân thân chạy 8 hướng%%
+%%oop thành phố%%
 OOP? Inheritance -> Abstraction -> Encapsulation -> Polymorphism
 %%bao bố trùm lớp, bảo vệ trường xé bao bố%%
 Encapsulation? Class encapsulate attributes, methods; Access modifiers (control data validation, expose method)
