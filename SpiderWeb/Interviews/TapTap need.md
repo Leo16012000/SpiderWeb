@@ -17,8 +17,8 @@ checked & unchecked exception?
 | **Examples**             | `IOException`, `SQLException`                                               | `NullPointerException`, `ArrayIndexOutOfBoundsException`                                                    |
 Lambda expression & Closure? Java không Closure
 %%Consider between notify(), notifyAll()%%
-Object methods? clone(), equals(), getClasS(), hashCode(), notify() and wait(), to String
-wait() chờ trên 1 thread, đợi thread khác gọi notify() hoặc notifyAll(). 
+Object methods? clone(), equals(), getClass(), hashCode(), **notify()** and **wait()**, toString()
+wait() chờ trên 1 thread, đợi thread khác gọi notify()/notifyAll(). 
 ```java
 public class Buffer { 
 	private final int capacity; 
@@ -39,6 +39,25 @@ public class Buffer {
 		notify(); // Thông báo cho một thread đang chờ return value; 
 		} 
 	}
+```
+hashCode() trả mã băm 
+toString() trả tên class + mã băm (`Example@6d06d69c`)
+```java
+@Override 
+public boolean equals(Object o) { 
+	if (this == o) return true; 
+	if (o == null || getClass() != o.getClass()) return false; 
+	Person person = (Person) o; 
+	return age == person.age && name.equals(person.name); 
+} 
+@Override 
+public int hashCode() { 
+	int result = name.hashCode(); 
+	result = 31 * result + age; 
+	return result; 
+}
+@Override 
+public String toString() { return "Person{name='" + name + "', age=" + age + "}"; }
 ```
 Microservices
 Spring
