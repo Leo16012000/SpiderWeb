@@ -16,8 +16,8 @@ checked & unchecked exception?
 | **When to Use**          | For recoverable conditions where the application might handle the exception | For programming errors that could be avoided by better coding practices (e.g., null pointer, out of bounds) |
 | **Examples**             | `IOException`, `SQLException`                                               | `NullPointerException`, `ArrayIndexOutOfBoundsException`                                                    |
 Lambda expression & Closure? Java không Closure
-Object methods? clone(), equals(), getClasS(), hashCode()
-
+Object methods? clone(), equals(), getClasS(), hashCode(), notify() and wait()
+wait() chờ trên 1 thread, đợi thread khác gọi notify()
 Microservices
 Spring
 Hibernate
