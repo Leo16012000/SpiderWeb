@@ -1,4 +1,6 @@
-Java/J2EE
+# Java/J2EE
+Java?
+OOP? Inheritance -> Abstraction -> 
 Microservices
 Spring
 Hibernate
