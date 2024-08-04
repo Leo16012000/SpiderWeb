@@ -204,21 +204,14 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "54c3f0724c6e12cb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,9 +234,9 @@
   },
   "active": "e048887ae4427389",
   "lastOpenFiles": [
-    "Interviews/Experience.md",
-    "Interviews/TapTap need.md",
     "Interviews/Interview questions.md",
+    "Interviews/TapTap need.md",
+    "Interviews/Experience.md",
     "Interviews/Interview prepare 05_08_24.md",
     "Interviews/Interview Prepare 03_05_24.md",
     "Interviews/Interview metrics.md",
