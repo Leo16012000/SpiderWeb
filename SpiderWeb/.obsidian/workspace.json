@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78c09962b64c47c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -207,10 +220,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "551c2bb9f6f8aadd",
+  "active": "78c09962b64c47c6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+    "conflict-files-obsidian-git.md",
+    "Interviews/TapTap need.md",
+    "Interviews/Experience.md",
     "Pasted image 20240801114340.png",
     "SG/Build pipeline.md",
     "Pasted image 20240801110536.png",
@@ -240,7 +255,6 @@
     "Days/240615.md",
     "Days/240613.md",
     "Days/240611.md",
-    "Days/240608.md",
     "Assets/Pasted image 20240722115418.png",
     "These shortcuts save my life",
     "Assets/Pasted image 20240716084531.png",
