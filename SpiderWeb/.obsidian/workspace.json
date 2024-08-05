@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+                "file": "Days/2024-07-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "detach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+                "file": "Days/2024-07-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+                "file": "Days/2024-07-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md"
+                "file": "Days/2024-07-25.md"
               }
             }
           },
@@ -207,10 +208,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "551c2bb9f6f8aadd",
+  "active": "478b02a604459df1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Days/2024-07-26.md",
+    "Days/2024-07-31.md",
     "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+    "conflict-files-obsidian-git.md",
     "Interviews/TapTap need.md",
     "Interviews/Experience.md",
     "Pasted image 20240801114340.png",
@@ -221,12 +224,10 @@
     "SG/Linker.md",
     "SG/Partner stove app.md",
     "SG/SG.md",
-    "Days/2024-07-31.md",
     "Tech compare/Long polling vs Websocket.md",
     "Tech compare",
     "Handbook/SB.md",
     "OS/OS.md",
-    "Days/2024-07-26.md",
     "SB/SB.md",
     "Days/2024-07-25.md",
     "Days/2024-07-24.md",
