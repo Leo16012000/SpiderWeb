@@ -59,6 +59,11 @@ public int hashCode() {
 @Override 
 public String toString() { return "Person{name='" + name + "', age=" + age + "}"; }
 ```
+JVM, JIT Compiler? 
+Java Virtual Machine, chứa JIT Compiler
+javac compile source code to bytecode, w 
+
+
 atomic, volatile, synchronized? 
 Microservices
 Spring
