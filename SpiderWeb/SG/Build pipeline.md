@@ -10,8 +10,9 @@ features?
 launch: request to run uploader (like login)
 register build: return build id and presign url
 finish upload: after uploader upload to S3, save build data to mysql
-poll API: get list builds??? create presign url
-update status upload: 
+poll API: get list builds? create presign url
+
+main purpose of service? generate access key, register upload file (get info to upload)
 
 why need register build? presigned URLs S3
 presigned URLs S3? grant temp access, time period, direct upload without server
