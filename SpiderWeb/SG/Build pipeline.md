@@ -1,4 +1,8 @@
 [[2024-08-06]]
+# Quick review code
+- Data Provider might cause duplicate unncessary. Data Provider are using for multiple sources, logic optimization for query, choose source to use(among multiple one)
+- 
+
 ![[Pasted image 20240806104243.png]]
 -------------------
 expect what build pipeline do? 
