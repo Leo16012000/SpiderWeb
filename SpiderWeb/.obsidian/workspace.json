@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/OS.md",
+                "file": "Interviews/TapTap need.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thread",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/OS.md",
+                "file": "Interviews/TapTap need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/OS.md",
+                "file": "Interviews/TapTap need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/OS.md"
+                "file": "Interviews/TapTap need.md"
               }
             }
           },
@@ -235,6 +234,7 @@
   },
   "active": "e048887ae4427389",
   "lastOpenFiles": [
+    "OS/OS.md",
     "Java/Lambda Expression.md",
     "Java/Java.md",
     "Interviews/Interview questions.md",
