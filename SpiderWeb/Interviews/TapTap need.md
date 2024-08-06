@@ -73,6 +73,7 @@ Bytecode vs Assembly?
 | **Tính độc lập** | Độc lập nền tảng                       | Phụ thuộc nền tảng                |
 | **Thực thi**     | Thông dịch hoặc JIT trên máy ảo        | Biên dịch trực tiếp thành mã máy  |
 | **Sử dụng bởi**  | Java, Python, .NET                     | x86, ARM, MIPS                    |
+
 atomic, volatile, synchronized? 
 Microservices
 Spring
