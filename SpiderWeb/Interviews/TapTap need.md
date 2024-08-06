@@ -63,7 +63,7 @@ JVM, JIT Compiler?
 Java Virtual Machine, chứa JIT Compiler
 javac: .java -> .class compile trước khi chạy
 JIT Compiler? .class -> binary compile trong khi chạy
-
+Run-time với JVM và JIT compiler: JVM dùng interpreter thực thi bytecode -> phát hiện hot spot -> JIT Compiler compile hot spot từ bytecode sang binary code -> hot spot được lưu trữ
 
 atomic, volatile, synchronized? 
 Microservices
