@@ -4,23 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "111e0038a21c1933",
+        "id": "e703a4eedebc3242",
         "type": "tabs",
         "children": [
           {
-            "id": "773b6f3fa9723c28",
+            "id": "e048887ae4427389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Build pipeline.md",
+                "file": "Interviews/TapTap need.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54c1ad17b417dc49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3417109d0b2eb92c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SB/SB.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32a87a4079e347e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "204a736627f42ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Lambda Expression.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Build pipeline.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Build pipeline.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Build pipeline.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -159,10 +212,10 @@
             }
           },
           {
-            "id": "60677e6007579c87",
+            "id": "9fd53459198ed092",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "calendar",
               "state": {}
             }
           }
@@ -176,6 +229,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "copilot:Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,58 +243,55 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Copilot Chat": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "773b6f3fa9723c28",
+  "active": "54c1ad17b417dc49",
   "lastOpenFiles": [
-    "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
-    "SG/Build pipeline.md",
+    "Interviews/TapTap need.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20240806104243.png",
     "Days/2024-08-06.md",
-    "Days/2024-07-25.md",
-    "Days/2024-07-26.md",
-    "Days/2024-07-31.md",
-    "conflict-files-obsidian-git.md",
-    "Interviews/TapTap need.md",
+    "Interviews/Interview questions.md",
     "Interviews/Experience.md",
+    "Interviews/Interview prepare 05_08_24.md",
+    "Interviews/Interview Prepare 03_05_24.md",
+    "Interviews/Interview metrics.md",
+    "Java/Java.md",
+    "SB/Life Cycle.md",
+    "SB/SB.md",
+    "Java/Lambda Expression.md",
+    "Java/Java 8.md",
+    "Java/Java 17.md",
+    "Java/Optional.md",
+    "Java/Single thread.md",
+    "Java/Muiltithread.md",
+    "Java/Java 9.md",
+    "Java/Functional Interface.md",
     "Pasted image 20240801114340.png",
     "Pasted image 20240801110536.png",
     "Pasted image 20240801110131.png",
-    "Interviews/Interview prepare 05_08_24.md",
-    "SG/Linker.md",
-    "SG/Partner stove app.md",
-    "SG/SG.md",
+    "smart-chats",
+    "SG/Thumbnail.md",
     "Tech compare/Long polling vs Websocket.md",
     "Tech compare",
-    "Handbook/SB.md",
-    "OS/OS.md",
-    "SB/SB.md",
-    "Days/2024-07-24.md",
-    "Handbook",
-    "SG/Thumbnail.md",
-    "Go/Go.md",
-    "Thread.md",
-    "Assets/Pasted image 20240723084917.png",
-    "Assets/Imagick.md",
-    "OS",
-    "Days/2024-07-23.md",
-    "Days/240617.md",
-    "Days/240615.md",
-    "Assets/Pasted image 20240722115418.png",
+    "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+    "Days/2024-07-31.md",
+    "Pasted image 20240715154509.png",
+    "These shortcuts save my life/Shortcut.md",
     "These shortcuts save my life",
+    "SG/SG.md",
+    "OS",
+    "Handbook",
+    "Assets/Pasted image 20240723084917.png",
+    "Assets/Pasted image 20240722115418.png",
     "Assets/Pasted image 20240716084531.png",
     "Assets/Pasted image 20240715155257.png",
     "Assets/Pasted image 20240715154509.png",
     "Mac",
-    "Assets/Pasted image 20240617214851.png",
     "SG",
     "Go",
     "Days",
-    "FE/CSS",
-    "FE"
+    "FE/CSS"
   ]
 }
