@@ -65,7 +65,14 @@ javac: .java -> .class compile trước khi chạy
 JIT Compiler? .class -> binary compile trong khi chạy
 Run-time với JVM và JIT compiler: JVM dùng interpreter thực thi bytecode -> phát hiện hot spot -> JIT Compiler compile hot spot từ bytecode sang binary code -> hot spot được lưu trữ
 JIT Compiler vs interpreter? Interpreter giúp chạy nhanh hơn vào lúc đầu, phát hiện hot spot, JIT compiler biên dịch và tối ưu hóa (nhiều kỹ thuật khác nhau mà interpreter đơn giản không thực hiện hiệu quả). Nếu compile all source -> memory không tối ưu do mã máy nặng hơn bytecode
+Bytecode vs Assembly?
 
+| Đặc điểm         | Bytecode                               | Assembly                          |
+| ---------------- | -------------------------------------- | --------------------------------- |
+| **Mục đích**     | Thực thi trên máy ảo, độc lập nền tảng | Giao tiếp trực tiếp với phần cứng |
+| **Tính độc lập** | Độc lập nền tảng                       | Phụ thuộc nền tảng                |
+| **Thực thi**     | Thông dịch hoặc JIT trên máy ảo        | Biên dịch trực tiếp thành mã máy  |
+| **Sử dụng bởi**  | Java, Python, .NET                     | x86, ARM, MIPS                    |
 atomic, volatile, synchronized? 
 Microservices
 Spring
