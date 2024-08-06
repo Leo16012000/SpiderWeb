@@ -1,3 +1,13 @@
+[[2024-08-06]]
+# Quick review code
+- Data Provider might cause duplicate unncessary. Data Provider are using for multiple sources, logic optimization for query, choose source to use(among multiple one)
+- The core package, as I think, should only contain the common things among multiple projects. That means: Base Entity, ErrorCode, BaseResponse, util,... could put here. requesetDto, responseDto, entity is the unstable things, so we should put all in the application package
+- Service should be the one throw error, not Data Provider. Cause business is rely on service, the decision to throw error or not is belong to Service layer
+- Should use constants for path, for auto suggest from IDE and not make some of typo mistakes (recommend)
+* Custom Repository is it needed?
+
+![[Pasted image 20240806104243.png]]
+-------------------
 expect what build pipeline do? 
 for one game, set appropriate version for each build.
 config after upload to run suitable
@@ -7,8 +17,10 @@ features?
 launch: request to run uploader (like login)
 register build: return build id and presign url
 finish upload: after uploader upload to S3, save build data to mysql
-poll API: get list builds??? create presign url
-update status upload: 
+poll API: get list builds? create presign url
+
+main purpose of service? generate access key, Get build meta and build file history -> register upload file (get info to upload)
+studio vs onstove diff?
 
 why need register build? presigned URLs S3
 presigned URLs S3? grant temp access, time period, direct upload without server
