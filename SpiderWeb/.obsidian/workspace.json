@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/TapTap need.md",
+                "file": "OS/OS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thread",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/TapTap need.md",
+                "file": "OS/OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/TapTap need.md",
+                "file": "OS/OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/TapTap need.md"
+                "file": "OS/OS.md"
               }
             }
           },
@@ -234,21 +235,21 @@
   },
   "active": "e048887ae4427389",
   "lastOpenFiles": [
+    "Java/Lambda Expression.md",
+    "Java/Java.md",
+    "Interviews/Interview questions.md",
+    "Interviews/TapTap need.md",
     "Pasted image 20240806224240.png",
     "Pasted image 20240806224225.png",
     "conflict-files-obsidian-git.md",
-    "Interviews/TapTap need.md",
     "Pasted image 20240806104243.png",
     "Days/2024-08-06.md",
-    "Interviews/Interview questions.md",
     "Interviews/Experience.md",
     "Interviews/Interview prepare 05_08_24.md",
     "Interviews/Interview Prepare 03_05_24.md",
     "Interviews/Interview metrics.md",
-    "Java/Java.md",
     "SB/Life Cycle.md",
     "SB/SB.md",
-    "Java/Lambda Expression.md",
     "Java/Java 8.md",
     "Java/Java 17.md",
     "Java/Optional.md",
@@ -274,7 +275,6 @@
     "Assets/Pasted image 20240723084917.png",
     "Assets/Pasted image 20240722115418.png",
     "Assets/Pasted image 20240716084531.png",
-    "Assets/Pasted image 20240715155257.png",
     "Mac",
     "SG",
     "Go",
