@@ -1,6 +1,7 @@
 [[2024-08-06]]
 # Quick review code
 - Data Provider might cause duplicate unncessary. Data Provider are using for multiple sources, logic optimization for query, choose source to use(among multiple one)
+- The core package, as I think, should only contain the common things among multiple projects. That means: Base Entity, ErrorCode, BaseResponse, util,... could put here. requesetDto, responseDto, entity is the unstable things, so we should put all in the application package
 - 
 
 ![[Pasted image 20240806104243.png]]
