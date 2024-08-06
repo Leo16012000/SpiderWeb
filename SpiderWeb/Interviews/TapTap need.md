@@ -61,7 +61,8 @@ public String toString() { return "Person{name='" + name + "', age=" + age + "}"
 ```
 JVM, JIT Compiler? 
 Java Virtual Machine, chứa JIT Compiler
-javac compile source code to bytecode, w 
+javac: .java -> .class compile trước khi chạy
+JIT Compiler? .class -> binary compile trong khi chạy
 
 
 atomic, volatile, synchronized? 
