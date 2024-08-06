@@ -74,6 +74,7 @@ Bytecode vs Assembly?
 | **Thực thi**     | Thông dịch hoặc JIT trên máy ảo        | Biên dịch trực tiếp thành mã máy  |
 | **Sử dụng bởi**  | Java, Python, .NET                     | x86, ARM, MIPS                    |
 
+is this Bytecode?? text to bytecode??![[Pasted image 20240806224240.png]]
 atomic, volatile, synchronized? 
 Microservices
 Spring
