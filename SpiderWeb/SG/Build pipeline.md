@@ -4,7 +4,6 @@
 - The core package, as I think, should only contain the common things among multiple projects. That means: Base Entity, ErrorCode, BaseResponse, util,... could put here. requesetDto, responseDto, entity is the unstable things, so we should put all in the application package
 - Service should be the one throw error, not Data Provider. Cause business is rely on service, the decision to throw error or not is belong to Service layer
 - Should use constants for path, for auto suggest from IDE and not make some of typo mistakes (recommend)
-- 
 
 ![[Pasted image 20240806104243.png]]
 -------------------
