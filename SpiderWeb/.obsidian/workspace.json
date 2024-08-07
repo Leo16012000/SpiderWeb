@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Build pipeline.md",
+                "file": "SG/Linker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Build pipeline.md",
+                "file": "SG/Linker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Build pipeline.md",
+                "file": "SG/Linker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Build pipeline.md"
+                "file": "SG/Linker.md"
               }
             }
           },
@@ -195,10 +195,10 @@
   },
   "active": "773b6f3fa9723c28",
   "lastOpenFiles": [
+    "SG/Build pipeline.md",
     "Pasted image 20240806224240.png",
     "Pasted image 20240806224225.png",
     "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
-    "SG/Build pipeline.md",
     "Pasted image 20240806104243.png",
     "Days/2024-08-06.md",
     "Days/2024-07-25.md",
@@ -234,7 +234,6 @@
     "These shortcuts save my life",
     "Assets/Pasted image 20240716084531.png",
     "Assets/Pasted image 20240715155257.png",
-    "Assets/Pasted image 20240715154509.png",
     "Mac",
     "SG",
     "Go",
