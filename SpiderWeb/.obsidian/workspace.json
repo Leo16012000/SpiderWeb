@@ -218,14 +218,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "696348c543257b94",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,7 +253,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "011015757908841b",
+  "active": "696348c543257b94",
   "lastOpenFiles": [
     "Java/Java 8.md",
     "Interviews/TapTap need.md",
