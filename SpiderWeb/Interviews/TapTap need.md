@@ -1,4 +1,4 @@
-Java/J2EE
+# Java/J2EE
 %%Đảo%% 
 Java?
 %%con, tranh, bao, phân thân thuật%%
@@ -80,7 +80,7 @@ Serialization? Object into binary format, disk/network/other Java running virtua
 
 
 atomic, volatile, synchronized? 
-Microservices
+# Microservices
 Spring
 Hibernate
 active in open source community
