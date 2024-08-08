@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "36325c193b1d3ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3417109d0b2eb92c",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Functional Interface.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Functional Interface.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Functional Interface.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -253,8 +266,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "696348c543257b94",
+  "active": "36325c193b1d3ef0",
   "lastOpenFiles": [
+    "Java/Functional Interface.md",
+    "conflict-files-obsidian-git.md",
+    "Days/2024-08-08.md",
     "Java/Java 8.md",
     "Interviews/TapTap need.md",
     "OS/OS.md",
@@ -263,7 +279,6 @@
     "Interviews/Interview questions.md",
     "Pasted image 20240806224240.png",
     "Pasted image 20240806224225.png",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20240806104243.png",
     "Days/2024-08-06.md",
     "Interviews/Experience.md",
@@ -277,7 +292,6 @@
     "Java/Single thread.md",
     "Java/Muiltithread.md",
     "Java/Java 9.md",
-    "Java/Functional Interface.md",
     "Pasted image 20240801114340.png",
     "Pasted image 20240801110536.png",
     "Pasted image 20240801110131.png",
@@ -290,7 +304,6 @@
     "Pasted image 20240715154509.png",
     "These shortcuts save my life/Shortcut.md",
     "These shortcuts save my life",
-    "SG/SG.md",
     "OS",
     "Handbook",
     "Assets/Pasted image 20240723084917.png",
