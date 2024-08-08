@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Functional Interface.md",
+                "file": "Interviews/TapTap need.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interviews/TapTap need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Interviews/TapTap need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Interviews/TapTap need.md"
               }
             }
           },
@@ -251,7 +253,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "696348c543257b94",
+  "active": "011015757908841b",
   "lastOpenFiles": [
     "Java/Functional Interface.md",
     "conflict-files-obsidian-git.md",
