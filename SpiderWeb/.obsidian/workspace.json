@@ -34,6 +34,29 @@
             }
           },
           {
+            "id": "f8bd50dbe26d4c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c9d6c19380293da",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-13 20.51.59.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "3417109d0b2eb92c",
             "type": "leaf",
             "state": {
@@ -73,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/TapTap need.md",
+                "file": "Excalidraw/Drawing 2024-08-13 20.51.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/TapTap need.md",
+                "file": "Excalidraw/Drawing 2024-08-13 20.51.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/TapTap need.md"
+                "file": "Excalidraw/Drawing 2024-08-13 20.51.59.excalidraw.md"
               }
             }
           },
@@ -253,10 +276,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "011015757908841b",
+  "active": "0c9d6c19380293da",
   "lastOpenFiles": [
-    "Interviews/Interview questions.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-08-13 20.51.59.excalidraw.md",
     "Interviews/TapTap need.md",
+    "Interviews/Interview questions.md",
     "Java/Functional Interface.md",
     "conflict-files-obsidian-git.md",
     "Days/2024-08-08.md",
@@ -287,9 +312,7 @@
     "Tech compare/Long polling vs Websocket.md",
     "Tech compare",
     "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
-    "Days/2024-07-31.md",
     "Pasted image 20240715154509.png",
-    "These shortcuts save my life/Shortcut.md",
     "These shortcuts save my life",
     "OS",
     "Handbook",
