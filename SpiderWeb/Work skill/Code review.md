@@ -23,3 +23,6 @@ cur architect, criteria/style, design pattern, SOLID/DDD, right position, util
 # Readability & Maintainability
 name meaning, code understand, error message, comment, docs
 ## Functionality
+does it worked?
+does UT ensure? 
+## Test
