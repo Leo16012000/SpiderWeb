@@ -1,2 +1,4 @@
-Meetup
-Cafe with friends
+Meetup (weekend)
+Cafe with long time friends
+Write Viblo
+Anki everyday
