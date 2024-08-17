@@ -1,2 +1,13 @@
 # vs Clean Code
-whole system
+
+| **Aspect**              | **Clean Code**                                                                                                      | **Clean Architecture**                                                                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Focus**               | Writing **code** that is easy to read, understand, and maintain.                                                    | Designing the overall **structure** of a software system.                                                                                 |
+| **Scope**               | **Micro**-level (within functions, classes, or small components).                                                   | **Macro**-level (across the entire system, including all layers).                                                                         |
+| **Guiding Principles**  | Simplicity, clarity, consistency, meaningful names, small functions, Single Responsibility Principle (SRP).         | Separation of concerns, dependency inversion, independence of frameworks, testability.                                                    |
+| **Primary Goal**        | Improve code readability, maintainability, and ease of understanding.                                               | Create scalable, maintainable, and adaptable software systems.                                                                            |
+| **Impact**              | Affects how individual components are written and organized.                                                        | Affects how components are structured and interact at a system level.                                                                     |
+| **Key Practices**       | - Use descriptive names  <br>- Keep functions/methods small  <br>- Adhere to SRP  <br>- Write self-explanatory code | - Separate layers (e.g., business logic, UI, data access)  <br>- Implement dependency inversion  <br>- Avoid tight coupling to frameworks |
+| **Outcome**             | Cleaner, more maintainable codebases.                                                                               | Well-organized, flexible, and robust system architecture.                                                                                 |
+| **Mutual Relationship** | Clean Code practices contribute to achieving a clean architecture.                                                  | Clean Architecture encourages and often requires clean coding practices.                                                                  |
+
