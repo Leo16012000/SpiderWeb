@@ -45,7 +45,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Assets"
+    "//Tags",
+    "//Work skill"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

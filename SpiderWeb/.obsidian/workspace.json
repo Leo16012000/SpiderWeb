@@ -24,9 +24,12 @@
             "id": "0255c3fb305820fc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Pasted image 20240817181934.png"
+                "file": "Days/240611.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20240817181934.png",
+                "file": "Days/240611.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20240817181934.png",
+                "file": "Days/240611.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Pasted image 20240817181934.png"
+                "file": "Days/240611.md"
               }
             }
           },
@@ -246,9 +249,17 @@
   },
   "active": "0255c3fb305820fc",
   "lastOpenFiles": [
-    "Vault.md",
+    "Days/240608.md",
+    "Days/240605.md",
+    "SG/Build pipeline.md",
+    "Days/2024-08-06.md",
+    "Go/Go.md",
+    "Days/2024-07-17.md",
+    "Days/2024-07-05.md",
+    "Days/2024-07-04.md",
     "Work skill/Code review.md",
     "Assets/Pasted image 20240817181934.png",
+    "Vault.md",
     "Interviews/Naver.md",
     "Leo habits/Leo Habits.md",
     "Interested things to do/.md",
@@ -273,15 +284,7 @@
     "Days/2024-08-08.md",
     "OS/OS.md",
     "Java/Java.md",
-    "Days/2024-08-06.md",
     "Interviews/Experience.md",
-    "Interviews/Interview prepare 05_08_24.md",
-    "Interviews/Interview Prepare 03_05_24.md",
-    "Interviews/Interview metrics.md",
-    "SB/Life Cycle.md",
-    "Java/Java 17.md",
-    "Java/Optional.md",
-    "Java/Single thread.md",
     "smart-chats",
     "Tech compare",
     "Pasted image 20240715154509.png",
