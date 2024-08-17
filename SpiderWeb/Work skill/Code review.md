@@ -21,4 +21,5 @@ Design, Readable and maintainable, func, test, performance, security
 CLs ><
 cur architect, criteria/style, design pattern, SOLID/DDD, right position, util
 # Readability & Maintainability
-name meaning, unit test
+name meaning, code understand, error message, comment, docs
+## Functionality
