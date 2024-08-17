@@ -39,25 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leo habits/Leo Habits.md",
+                "file": "SW Design and Architecture/Clean code.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "e54e5eeb1f540c89",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Days/240611.md",
+                "file": "SW Design and Architecture/Clean code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days/240611.md",
+                "file": "SW Design and Architecture/Clean code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Days/240611.md"
+                "file": "SW Design and Architecture/Clean code.md"
               }
             }
           },
@@ -247,8 +237,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0255c3fb305820fc",
+  "active": "27c22b9a5b4126bb",
   "lastOpenFiles": [
+    "Leo habits/Leo Habits.md",
+    "Days/240611.md",
     "Days/240608.md",
     "Days/240605.md",
     "SG/Build pipeline.md",
@@ -261,7 +253,6 @@
     "Assets/Pasted image 20240817181934.png",
     "Vault.md",
     "Interviews/Naver.md",
-    "Leo habits/Leo Habits.md",
     "Interested things to do/.md",
     "Leo habits",
     "Tags",
@@ -284,7 +275,6 @@
     "Days/2024-08-08.md",
     "OS/OS.md",
     "Java/Java.md",
-    "Interviews/Experience.md",
     "smart-chats",
     "Tech compare",
     "Pasted image 20240715154509.png",
