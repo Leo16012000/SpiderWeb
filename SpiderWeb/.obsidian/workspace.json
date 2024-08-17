@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SW Design and Architecture/Untitled.md",
+                "file": "SW Design and Architecture/Clean Architecture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW Design and Architecture/Untitled.md",
+                "file": "SW Design and Architecture/Clean Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SW Design and Architecture/Untitled.md",
+                "file": "SW Design and Architecture/Clean Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SW Design and Architecture/Untitled.md"
+                "file": "SW Design and Architecture/Clean Architecture.md"
               }
             }
           },
@@ -239,7 +239,7 @@
   },
   "active": "27c22b9a5b4126bb",
   "lastOpenFiles": [
-    "SW Design and Architecture/Untitled.md",
+    "SW Design and Architecture/Clean Architecture.md",
     "SW Design and Architecture/SW Design and Architecture.md",
     "SW Design and Architecture/Clean code.md",
     "Leo habits/Leo Habits.md",
