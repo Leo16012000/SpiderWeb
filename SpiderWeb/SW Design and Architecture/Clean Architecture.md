@@ -1,3 +1,5 @@
+## Why
+decisions early, hard to change, center around framwork, 
 # vs Clean Code
 
 | **Aspect**              | **Clean Code**                                                                                             | **Clean Architecture**                                                                                                                    |
