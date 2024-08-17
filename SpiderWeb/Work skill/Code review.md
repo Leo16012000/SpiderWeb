@@ -29,4 +29,5 @@ does UT ensure?
 code mới/sửa, logic phức tạp, hiểu, phù hợp, miss case?
 ## Performance
 tiêu cực, service khác -> timeout, db(N+1, Deadlock), thread, memory leak
-/
+# Security
+
