@@ -32,5 +32,9 @@ negative, service khác -> timeout, db(N+1, Deadlock), thread, memory leak
 # Security
 SQL injection, Cross-site Scripting
 Encrypt?, key leak?
+=> fw often do it all 
+
+# Steps
+
 
 
