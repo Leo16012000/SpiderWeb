@@ -23,11 +23,14 @@ cur architect, criteria/style, design pattern, SOLID/DDD, right position, util
 # Readability & Maintainability
 name meaning, code understand, error message, comment, docs
 ## Functionality
-does it worked?
-does UT ensure? 
+worked?
+UT ensure? 
 ## Test
 code mới/sửa, logic phức tạp, hiểu, phù hợp, miss case?
 ## Performance
-tiêu cực, service khác -> timeout, db(N+1, Deadlock), thread, memory leak
+negative, service khác -> timeout, db(N+1, Deadlock), thread, memory leak
 # Security
+SQL injection, Cross-site Scripting
+Encrypt?, key leak?
+
 
