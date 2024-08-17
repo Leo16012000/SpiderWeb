@@ -19,4 +19,4 @@ Design, Readable and maintainable, func, test, performance, security
 
 ## Design
 CLs ><
-cur architect, criteria/style, design pattern, SOLID/DDD, 
+cur architect, criteria/style, design pattern, SOLID/DDD, pos, 
