@@ -19,4 +19,6 @@ Design, Readable and maintainable, func, test, performance, security
 
 ## Design
 CLs ><
-cur architect, criteria/style, design pattern, SOLID/DDD, pos, 
+cur architect, criteria/style, design pattern, SOLID/DDD, right position, util
+# Readability & Maintainability
+name meaning, unit test
