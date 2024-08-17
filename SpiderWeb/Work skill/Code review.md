@@ -16,3 +16,7 @@ Criteria:
 Formatting, Common convention/best practices
 
 Design, Readable and maintainable, func, test, performance, security
+
+## Design
+CLs ><
+cur architect, criteria/style, design pattern, SOLID/DDD, 
