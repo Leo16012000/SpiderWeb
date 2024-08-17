@@ -1,5 +1,5 @@
 ## Why
-decisions early, hard to change, center around framwork, 
+decisions early, hard to change, center around framwork, center around db, technical aspects, hard to find things, business everywhere, 
 # vs Clean Code
 
 | **Aspect**              | **Clean Code**                                                                                             | **Clean Architecture**                                                                                                                    |
