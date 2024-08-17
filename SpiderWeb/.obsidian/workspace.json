@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work skill/Code review.md",
+                "file": "Leo habits/Leo Habits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e54e5eeb1f540c89",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
               }
             }
           }
@@ -79,6 +89,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ff2fb385197f730a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -100,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work skill/Code review.md",
+                "file": "Leo habits/Leo Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work skill/Code review.md",
+                "file": "Leo habits/Leo Habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work skill/Code review.md"
+                "file": "Leo habits/Leo Habits.md"
               }
             }
           },
@@ -193,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +233,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7d5e4206aef31732",
+  "active": "27c22b9a5b4126bb",
   "lastOpenFiles": [
-    "Interviews/Naver.md",
     "Work skill/Code review.md",
+    "Leo habits/Leo Habits.md",
+    "Interested things to do/.md",
+    "Leo habits",
+    "Tags",
+    "Interviews/Naver.md",
     "Work skill",
     "Assets/Pasted image 20240801110131.png",
     "Assets/Pasted image 20240806224225.png",
@@ -247,9 +270,7 @@
     "Java/Optional.md",
     "Java/Single thread.md",
     "Java/Muiltithread.md",
-    "Java/Java 9.md",
     "smart-chats",
-    "SG/Thumbnail.md",
     "Tech compare",
     "Pasted image 20240715154509.png",
     "These shortcuts save my life",
@@ -259,8 +280,6 @@
     "Assets/Pasted image 20240722115418.png",
     "Assets/Pasted image 20240716084531.png",
     "Mac",
-    "SG",
-    "Go",
-    "Days"
+    "SG"
   ]
 }
