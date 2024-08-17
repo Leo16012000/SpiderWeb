@@ -45,7 +45,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags"
+    "//Tags",
+    "//SW Design and Architecture"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

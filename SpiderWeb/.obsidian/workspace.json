@@ -37,9 +37,12 @@
             "id": "27c22b9a5b4126bb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "SW Design and Architecture"
+                "file": "SW Design and Architecture/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "file": "SW Design and Architecture/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SW Design and Architecture/SW Design and Architecture.md",
+                "file": "SW Design and Architecture/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SW Design and Architecture/SW Design and Architecture.md"
+                "file": "SW Design and Architecture/Untitled.md"
               }
             }
           },
@@ -234,8 +237,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb631636c31fade6",
+  "active": "27c22b9a5b4126bb",
   "lastOpenFiles": [
+    "SW Design and Architecture/Untitled.md",
     "SW Design and Architecture/SW Design and Architecture.md",
     "SW Design and Architecture/Clean code.md",
     "Leo habits/Leo Habits.md",
@@ -271,7 +275,6 @@
     "Interviews/Interview questions.md",
     "Java/Functional Interface.md",
     "conflict-files-obsidian-git.md",
-    "Days/2024-08-08.md",
     "smart-chats",
     "Tech compare",
     "Pasted image 20240715154509.png",
