@@ -26,4 +26,6 @@ name meaning, code understand, error message, comment, docs
 does it worked?
 does UT ensure? 
 ## Test
-code mới/sửa, logic phức tạp, hiểu, phù hợp
+code mới/sửa, logic phức tạp, hiểu, phù hợp, miss case?
+## Performance
+tiêu cực, service khác -> timeout, db, N+1, Deadlock, thread, memory leak
