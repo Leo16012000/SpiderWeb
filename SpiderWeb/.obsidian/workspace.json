@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "0255c3fb305820fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work skill/Code review.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "27c22b9a5b4126bb",
             "type": "leaf",
             "state": {
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leo habits/Leo Habits.md",
+                "file": "Work skill/Code review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leo habits/Leo Habits.md",
+                "file": "Work skill/Code review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leo habits/Leo Habits.md"
+                "file": "Work skill/Code review.md"
               }
             }
           },
@@ -233,14 +246,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "27c22b9a5b4126bb",
+  "active": "0255c3fb305820fc",
   "lastOpenFiles": [
-    "Work skill/Code review.md",
+    "Interviews/Naver.md",
     "Leo habits/Leo Habits.md",
+    "Work skill/Code review.md",
     "Interested things to do/.md",
     "Leo habits",
     "Tags",
-    "Interviews/Naver.md",
     "Work skill",
     "Assets/Pasted image 20240801110131.png",
     "Assets/Pasted image 20240806224225.png",
