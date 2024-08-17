@@ -15,3 +15,4 @@ Criteria:
 # Common mistake
 Formatting, Common convention/best practices
 
+Design, Readable and maintainable, func, test, performance, security
