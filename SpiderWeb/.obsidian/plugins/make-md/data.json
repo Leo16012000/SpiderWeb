@@ -46,7 +46,11 @@
   "expandedSpaces": [
     "/",
     "//Tags",
-    "//SW Design and Architecture"
+    "//SW Design and Architecture",
+    "//Sample System",
+    "//Sample System/Sample System/Payment System",
+    "//Tech compare",
+    "//Java"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

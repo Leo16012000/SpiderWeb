@@ -4,23 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "111e0038a21c1933",
+        "id": "04792c2944dc7a94",
         "type": "tabs",
         "children": [
           {
-            "id": "773b6f3fa9723c28",
+            "id": "6054cc2d86bf81ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+                "file": "Interviews/Naver.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0255c3fb305820fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Days/240611.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27c22b9a5b4126bb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Java"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +89,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ff2fb385197f730a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -86,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+                "file": "Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
+                "file": "Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SG/Build pipeline - Code Structure - Hexagonal Architecture.md"
+                "file": "Java/Java.md"
               }
             }
           },
@@ -159,7 +192,15 @@
             }
           },
           {
-            "id": "60677e6007579c87",
+            "id": "9fd53459198ed092",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "696348c543257b94",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -167,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -176,6 +217,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "copilot:Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,59 +231,56 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "copilot:Copilot Chat": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "773b6f3fa9723c28",
+  "active": "efa0b79242f9463b",
   "lastOpenFiles": [
-    "Work skill/Code review.md",
-    "Work skill",
-    "Vault.md",
     "SW Design and Architecture/Clean Architecture.md",
+    "SW Design and Architecture/SW Design and Architecture.md",
+    "SW Design and Architecture/Clean code.md",
     "Leo habits/Leo Habits.md",
-    "Leo habits",
+    "Days/240611.md",
+    "Days/240608.md",
+    "Days/240605.md",
+    "SG/Build pipeline.md",
+    "Days/2024-08-06.md",
+    "Go/Go.md",
+    "Days/2024-07-17.md",
+    "Days/2024-07-05.md",
+    "Days/2024-07-04.md",
+    "Work skill/Code review.md",
+    "Assets/Pasted image 20240817181934.png",
+    "Vault.md",
     "Interviews/Naver.md",
-    "Assets/Pasted image 20240806224240.png",
+    "Interested things to do/.md",
+    "Leo habits",
+    "Tags",
+    "Work skill",
+    "Assets/Pasted image 20240801110131.png",
     "Assets/Pasted image 20240806224225.png",
+    "Untitled.md",
+    "Assets/Pasted image 20240806224240.png",
     "Assets/Pasted image 20240806104243.png",
     "Assets/Pasted image 20240801114340.png",
     "Assets/Pasted image 20240801110536.png",
-    "Assets/Pasted image 20240801110131.png",
-    "Untitled.md",
-    "Excalidraw/Drawing 2024-08-13 20.51.59.excalidraw.md",
-    "SG/Build pipeline.md",
-    "Days/2024-08-08.md",
-    "SG/Linker.md",
-    "Pasted image 20240806224240.png",
-    "Pasted image 20240806224225.png",
-    "SG/Build pipeline - Code Structure - Hexagonal Architecture.md",
-    "Pasted image 20240806104243.png",
-    "Days/2024-08-06.md",
-    "Days/2024-07-25.md",
-    "Days/2024-07-26.md",
-    "Days/2024-07-31.md",
-    "conflict-files-obsidian-git.md",
-    "Interviews/TapTap need.md",
-    "Interviews/Experience.md",
-    "Pasted image 20240801114340.png",
-    "Interviews/Interview prepare 05_08_24.md",
-    "SG/Partner stove app.md",
-    "SG/SG.md",
-    "Tech compare/Long polling vs Websocket.md",
-    "Tech compare",
-    "Handbook/SB.md",
-    "OS/OS.md",
+    "Java/Lambda Expression.md",
+    "Java/Java 8.md",
     "SB/SB.md",
-    "Days/2024-07-24.md",
-    "Handbook",
-    "OS",
+    "Excalidraw/Drawing 2024-08-13 20.51.59.excalidraw.md",
+    "Interviews/TapTap need.md",
+    "Interviews/Interview questions.md",
+    "Java/Functional Interface.md",
+    "conflict-files-obsidian-git.md",
+    "smart-chats",
+    "Tech compare",
+    "Pasted image 20240715154509.png",
     "These shortcuts save my life",
+    "OS",
+    "Handbook",
+    "Assets/Pasted image 20240723084917.png",
+    "Assets/Pasted image 20240722115418.png",
     "Mac",
-    "SG",
-    "Go",
-    "Days"
+    "SG"
   ]
 }
