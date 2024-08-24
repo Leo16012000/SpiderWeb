@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Naver.md",
+                "file": "SW Design and Architecture/Avoid passing null, booleans.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java.md",
+                "file": "SW Design and Architecture/Avoid passing null, booleans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java.md",
+                "file": "SW Design and Architecture/Avoid passing null, booleans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java.md"
+                "file": "SW Design and Architecture/Avoid passing null, booleans.md"
               }
             }
           },
@@ -233,9 +233,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4fc2858c8b62ede8",
+  "active": "6054cc2d86bf81ea",
   "lastOpenFiles": [
+    "SW Design and Architecture/Coupling.md",
+    "SW Design and Architecture/Cohension.md",
+    "SW Design and Architecture/IOC.md",
     "Interviews/Naver.md",
+    "Java/Java.md",
     "SW Design and Architecture/Clean Architecture.md",
     "SW Design and Architecture/SW Design and Architecture.md",
     "SW Design and Architecture/Clean code.md",
@@ -267,10 +271,6 @@
     "Java/Java 8.md",
     "SB/SB.md",
     "Excalidraw/Drawing 2024-08-13 20.51.59.excalidraw.md",
-    "Interviews/TapTap need.md",
-    "Interviews/Interview questions.md",
-    "Java/Functional Interface.md",
-    "conflict-files-obsidian-git.md",
     "smart-chats",
     "Tech compare",
     "Pasted image 20240715154509.png",
