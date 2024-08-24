@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,8 +233,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efa0b79242f9463b",
+  "active": "4fc2858c8b62ede8",
   "lastOpenFiles": [
+    "Interviews/Naver.md",
     "SW Design and Architecture/Clean Architecture.md",
     "SW Design and Architecture/SW Design and Architecture.md",
     "SW Design and Architecture/Clean code.md",
@@ -252,7 +252,6 @@
     "Work skill/Code review.md",
     "Assets/Pasted image 20240817181934.png",
     "Vault.md",
-    "Interviews/Naver.md",
     "Interested things to do/.md",
     "Leo habits",
     "Tags",
