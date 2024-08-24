@@ -11,8 +11,13 @@
             "id": "6054cc2d86bf81ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leo habits/Leo Habits.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -113,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leo habits/Leo Habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leo habits/Leo Habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leo habits/Leo Habits.md"
+              }
             }
           },
           {
@@ -226,16 +235,18 @@
   },
   "active": "6054cc2d86bf81ea",
   "lastOpenFiles": [
+    "Leo habits/Leo Habits.md",
+    "Vault.md",
+    "Java/Java.md",
+    "Mac/Mac.md",
     "SW Design and Architecture/Avoid passing null, booleans.md",
     "SW Design and Architecture/Coupling.md",
     "SW Design and Architecture/Cohension.md",
     "SW Design and Architecture/IOC.md",
     "Interviews/Naver.md",
-    "Java/Java.md",
     "SW Design and Architecture/Clean Architecture.md",
     "SW Design and Architecture/SW Design and Architecture.md",
     "SW Design and Architecture/Clean code.md",
-    "Leo habits/Leo Habits.md",
     "Days/240611.md",
     "Days/240608.md",
     "Days/240605.md",
@@ -247,7 +258,6 @@
     "Days/2024-07-04.md",
     "Work skill/Code review.md",
     "Assets/Pasted image 20240817181934.png",
-    "Vault.md",
     "Interested things to do/.md",
     "Leo habits",
     "Tags",
@@ -261,7 +271,6 @@
     "Assets/Pasted image 20240801110536.png",
     "Java/Lambda Expression.md",
     "Java/Java 8.md",
-    "SB/SB.md",
     "smart-chats",
     "Tech compare",
     "Pasted image 20240715154509.png",
